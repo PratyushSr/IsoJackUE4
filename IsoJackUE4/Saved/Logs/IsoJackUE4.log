@@ -1853,3 +1853,726 @@ LogConfig: Setting CVar [[fx.NiagaraAllowRuntimeScalabilityChanges:1]]
 [2021.08.20-05.20.31:317][251]LogSavePackage: Moving '../../../../../../Ue_Wisp/IsoJack_v2/IsoJackUE4/IsoJackUE4/Saved/BP_PlayerCharacter8F7DF33C453B32AC5E82BBAA0CF71F97.tmp' to '../../../../../../Ue_Wisp/IsoJack_v2/IsoJackUE4/IsoJackUE4/Content/ThirdPersonBP/Blueprints/BP_PlayerCharacter.uasset'
 [2021.08.20-05.20.31:331][251]AssetCheck: New page: Asset Save: BP_PlayerCharacter
 [2021.08.20-05.20.31:331][251]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/BP_PlayerCharacter.BP_PlayerCharacter
+[2021.08.20-05.21.56:838][856]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2021.08.20-05.21.56:860][856]LogContentBrowser: Creating deferred item: NewFolder
+[2021.08.20-05.22.04:460][991]LogContentBrowser: Attempting asset rename: NewFolder -> Equipment_Data
+[2021.08.20-05.22.04:461][991]LogContentBrowser: End creating deferred item NewFolder
+[2021.08.20-05.22.15:340][414]LogContentBrowser: Deferred new asset file creation: NewUserDefinedEnum
+[2021.08.20-05.22.15:355][414]LogContentBrowser: Creating deferred item: NewUserDefinedEnum
+[2021.08.20-05.22.22:151][525]LogContentBrowser: Attempting asset rename: NewUserDefinedEnum -> Armor_Type
+[2021.08.20-05.22.22:155][525]LogContentBrowser: End creating deferred item NewUserDefinedEnum
+[2021.08.20-05.22.27:709][697]LogContentBrowser: Deferred new asset file creation: NewUserDefinedEnum
+[2021.08.20-05.22.27:728][697]LogContentBrowser: Creating deferred item: NewUserDefinedEnum
+[2021.08.20-05.22.34:580][795]LogContentBrowser: Attempting asset rename: NewUserDefinedEnum -> Rarity
+[2021.08.20-05.22.34:581][795]LogContentBrowser: End creating deferred item NewUserDefinedEnum
+[2021.08.20-05.22.46:139][870]LogAssetEditorSubsystem: Opening Asset editor for UserDefinedEnum /Game/Blueprints/Equipment_System/Equipment_Data/Rarity.Rarity
+[2021.08.20-05.22.50:040][933]LogUObjectHash: Compacting FUObjectHashTables data took   4.52ms
+[2021.08.20-05.22.50:956][933]LogSlate: Window 'Save Content' being destroyed
+[2021.08.20-05.22.50:985][933]LogSavePackage: Moving '../../../../../../Ue_Wisp/IsoJack_v2/IsoJackUE4/IsoJackUE4/Saved/Armor_Type2C0550E4495CC194443CA9B73BA08542.tmp' to '../../../../../../Ue_Wisp/IsoJack_v2/IsoJackUE4/IsoJackUE4/Content/Blueprints/Equipment_System/Equipment_Data/Armor_Type.uasset'
+[2021.08.20-05.22.50:987][933]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Lv_IsoJack" FILE="../../../../../../Ue_Wisp/IsoJack_v2/IsoJackUE4/IsoJackUE4/Content/Maps/Lv_IsoJack.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.08.20-05.22.51:027][933]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2021.08.20-05.22.52:598][933]LogSavePackage: Moving '../../../../../../Ue_Wisp/IsoJack_v2/IsoJackUE4/IsoJackUE4/Saved/Lv_IsoJack472BE2944B8B54F62A359992E1427FEB.tmp' to '../../../../../../Ue_Wisp/IsoJack_v2/IsoJackUE4/IsoJackUE4/Content/Maps/Lv_IsoJack.umap'
+[2021.08.20-05.22.52:617][933]LogFileHelpers: Saving map 'Lv_IsoJack' took 1.632
+[2021.08.20-05.22.52:619][933]LogSavePackage: Moving '../../../../../../Ue_Wisp/IsoJack_v2/IsoJackUE4/IsoJackUE4/Saved/Rarity8D47156943A2D49C0CEBBFBD070B72B5.tmp' to '../../../../../../Ue_Wisp/IsoJack_v2/IsoJackUE4/IsoJackUE4/Content/Blueprints/Equipment_System/Equipment_Data/Rarity.uasset'
+[2021.08.20-05.22.52:664][933]AssetCheck: New page: Asset Save: multiple assets
+[2021.08.20-05.22.52:664][933]LogContentValidation: Display: Validating World /Game/Maps/Lv_IsoJack.Lv_IsoJack
+[2021.08.20-05.22.52:664][933]LogContentValidation: Display: Validating UserDefinedEnum /Game/Blueprints/Equipment_System/Equipment_Data/Rarity.Rarity
+[2021.08.20-05.22.52:664][933]LogContentValidation: Display: Validating UserDefinedEnum /Game/Blueprints/Equipment_System/Equipment_Data/Armor_Type.Armor_Type
+[2021.08.20-05.22.54:913][949]LogAssetEditorSubsystem: Opening Asset editor for UserDefinedEnum /Game/Blueprints/Equipment_System/Equipment_Data/Rarity.Rarity
+[2021.08.20-05.23.25:952][518]LogSavePackage: Moving '../../../../../../Ue_Wisp/IsoJack_v2/IsoJackUE4/IsoJackUE4/Saved/RarityFBBABA8F456819D7F9C9AD8074517C85.tmp' to '../../../../../../Ue_Wisp/IsoJack_v2/IsoJackUE4/IsoJackUE4/Content/Blueprints/Equipment_System/Equipment_Data/Rarity.uasset'
+[2021.08.20-05.23.25:966][518]AssetCheck: New page: Asset Save: Rarity
+[2021.08.20-05.23.25:966][518]LogContentValidation: Display: Validating UserDefinedEnum /Game/Blueprints/Equipment_System/Equipment_Data/Rarity.Rarity
+[2021.08.20-05.23.34:909][685]LogContentBrowser: Attempting asset rename: Rarity -> Equipment_Tier
+[2021.08.20-05.23.35:034][685]LogMetaData: Removing '/Game/Blueprints/Equipment_System/Equipment_Data/Equipment_Tier.Equipment_Tier' ref from Metadata '/Game/Blueprints/Equipment_System/Equipment_Data/Rarity.PackageMetaData'
+[2021.08.20-05.23.35:074][685]LogSavePackage: Moving '../../../../../../Ue_Wisp/IsoJack_v2/IsoJackUE4/IsoJackUE4/Saved/Equipment_TierB7860C1441BAB4DAD5874BB31AF813A1.tmp' to '../../../../../../Ue_Wisp/IsoJack_v2/IsoJackUE4/IsoJackUE4/Content/Blueprints/Equipment_System/Equipment_Data/Equipment_Tier.uasset'
+[2021.08.20-05.23.35:244][685]LogUObjectHash: Compacting FUObjectHashTables data took   3.66ms
+[2021.08.20-05.23.35:289][685]LogUObjectHash: Compacting FUObjectHashTables data took   2.91ms
+[2021.08.20-05.23.35:320][685]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2021.08.20-05.23.35:523][685]AssetCheck: New page: Asset Save: Equipment_Tier
+[2021.08.20-05.23.35:523][685]LogContentValidation: Display: Validating UserDefinedEnum /Game/Blueprints/Equipment_System/Equipment_Data/Equipment_Tier.Equipment_Tier
+[2021.08.20-05.23.36:252][696]LogAssetEditorSubsystem: Opening Asset editor for UserDefinedEnum /Game/Blueprints/Equipment_System/Equipment_Data/Equipment_Tier.Equipment_Tier
+[2021.08.20-05.23.41:433][728]LogAssetEditorSubsystem: Opening Asset editor for UserDefinedEnum /Game/Blueprints/Equipment_System/Equipment_Data/Armor_Type.Armor_Type
+[2021.08.20-05.24.21:038][286]LogSavePackage: Moving '../../../../../../Ue_Wisp/IsoJack_v2/IsoJackUE4/IsoJackUE4/Saved/Armor_TypeE7A1F17C4FDC5017711B6D8269B168BD.tmp' to '../../../../../../Ue_Wisp/IsoJack_v2/IsoJackUE4/IsoJackUE4/Content/Blueprints/Equipment_System/Equipment_Data/Armor_Type.uasset'
+[2021.08.20-05.24.21:062][286]AssetCheck: New page: Asset Save: Armor_Type
+[2021.08.20-05.24.21:062][286]LogContentValidation: Display: Validating UserDefinedEnum /Game/Blueprints/Equipment_System/Equipment_Data/Armor_Type.Armor_Type
+[2021.08.20-05.24.36:142][674]LogContentBrowser: Deferred new asset file creation: NewUserDefinedStruct
+[2021.08.20-05.24.36:163][674]LogContentBrowser: Creating deferred item: NewUserDefinedStruct
+[2021.08.20-05.24.45:662][809]LogContentBrowser: Attempting asset rename: NewUserDefinedStruct -> Armor_Data
+[2021.08.20-05.24.45:844][809]LogContentBrowser: End creating deferred item NewUserDefinedStruct
+[2021.08.20-05.24.46:395][817]LogAssetEditorSubsystem: Opening Asset editor for UserDefinedStruct /Game/Blueprints/Equipment_System/Equipment_Data/Armor_Data.Armor_Data
+[2021.08.20-05.24.54:645][971]LogSlate: Took 0.040546 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2021.08.20-05.27.22:439][494]LogSavePackage: Moving '../../../../../../Ue_Wisp/IsoJack_v2/IsoJackUE4/IsoJackUE4/Saved/Armor_DataA70337C54F3A6CA3662C3AA1612DE861.tmp' to '../../../../../../Ue_Wisp/IsoJack_v2/IsoJackUE4/IsoJackUE4/Content/Blueprints/Equipment_System/Equipment_Data/Armor_Data.uasset'
+[2021.08.20-05.27.22:460][494]AssetCheck: New page: Asset Save: Armor_Data
+[2021.08.20-05.27.22:460][494]LogContentValidation: Display: Validating UserDefinedStruct /Game/Blueprints/Equipment_System/Equipment_Data/Armor_Data.Armor_Data
+[2021.08.20-05.27.47:183][817]LogSavePackage: Moving '../../../../../../Ue_Wisp/IsoJack_v2/IsoJackUE4/IsoJackUE4/Saved/Armor_Data99A51611420D927601E25EB19ADA60A4.tmp' to '../../../../../../Ue_Wisp/IsoJack_v2/IsoJackUE4/IsoJackUE4/Content/Blueprints/Equipment_System/Equipment_Data/Armor_Data.uasset'
+[2021.08.20-05.27.47:201][817]AssetCheck: New page: Asset Save: Armor_Data
+[2021.08.20-05.27.47:201][817]LogContentValidation: Display: Validating UserDefinedStruct /Game/Blueprints/Equipment_System/Equipment_Data/Armor_Data.Armor_Data
+[2021.08.20-05.28.23:852][680]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UX/Wgt_Player_UI" FILE="../../../../../../Ue_Wisp/IsoJack_v2/IsoJackUE4/IsoJackUE4/Content/UX/Wgt_Player_UI.uasset" SILENT=true
+[2021.08.20-05.28.24:020][680]LogSavePackage: Moving '../../../../../../Ue_Wisp/IsoJack_v2/IsoJackUE4/IsoJackUE4/Saved/Wgt_Player_UI0CA55208425D10896AB1F5B92C9591D3.tmp' to '../../../../../../Ue_Wisp/IsoJack_v2/IsoJackUE4/IsoJackUE4/Content/UX/Wgt_Player_UI.uasset'
+[2021.08.20-05.28.24:040][680]AssetCheck: New page: Asset Save: Wgt_Player_UI
+[2021.08.20-05.28.24:040][680]LogContentValidation: Display: Validating WidgetBlueprint /Game/UX/Wgt_Player_UI.Wgt_Player_UI
+[2021.08.20-05.28.26:421][707]LogAssetEditorSubsystem: Opening Asset editor for UserDefinedEnum /Game/Blueprints/Equipment_System/Equipment_Data/Equipment_Tier.Equipment_Tier
+[2021.08.20-05.28.41:385][166]LogContentBrowser: Deferred new asset file creation: NewWidgetBlueprint
+[2021.08.20-05.28.41:404][166]LogContentBrowser: Creating deferred item: NewWidgetBlueprint
+[2021.08.20-05.28.44:326][211]LogContentBrowser: Attempting asset rename: NewWidgetBlueprint -> Armor_Slot
+[2021.08.20-05.28.44:431][211]LogContentBrowser: End creating deferred item NewWidgetBlueprint
+[2021.08.20-05.28.45:584][227]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Blueprints/Equipment_System/Armor_Slot.Armor_Slot
+[2021.08.20-05.30.16:566][217]LogSlate: Window 'Color Picker' being destroyed
+[2021.08.20-05.30.19:573][267]BlueprintLog: New page: Compile Armor_Slot
+[2021.08.20-05.30.19:642][267]LogUObjectHash: Compacting FUObjectHashTables data took   5.05ms
+[2021.08.20-05.30.20:206][276]LogSavePackage: Moving '../../../../../../Ue_Wisp/IsoJack_v2/IsoJackUE4/IsoJackUE4/Saved/Armor_Slot1C53524D4B149614E8555DBD7CBAABE5.tmp' to '../../../../../../Ue_Wisp/IsoJack_v2/IsoJackUE4/IsoJackUE4/Content/Blueprints/Equipment_System/Armor_Slot.uasset'
+[2021.08.20-05.30.20:225][276]AssetCheck: New page: Asset Save: Armor_Slot
+[2021.08.20-05.30.20:225][276]LogContentValidation: Display: Validating WidgetBlueprint /Game/Blueprints/Equipment_System/Armor_Slot.Armor_Slot
+[2021.08.20-05.30.43:673][661]BlueprintLog: New page: Compile Armor_Slot
+[2021.08.20-05.30.43:747][661]LogUObjectHash: Compacting FUObjectHashTables data took   4.45ms
+[2021.08.20-05.30.44:612][672]LogSavePackage: Moving '../../../../../../Ue_Wisp/IsoJack_v2/IsoJackUE4/IsoJackUE4/Saved/Armor_Slot651927274FBFEB06EA7060ADCB56CF87.tmp' to '../../../../../../Ue_Wisp/IsoJack_v2/IsoJackUE4/IsoJackUE4/Content/Blueprints/Equipment_System/Armor_Slot.uasset'
+[2021.08.20-05.30.44:629][672]AssetCheck: New page: Asset Save: Armor_Slot
+[2021.08.20-05.30.44:629][672]LogContentValidation: Display: Validating WidgetBlueprint /Game/Blueprints/Equipment_System/Armor_Slot.Armor_Slot
+[2021.08.20-05.30.52:188][769]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Blueprints/Equipment_System/CharacterSheet.CharacterSheet
+[2021.08.20-05.31.01:120][890]LogSlate: Took 0.064355 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2021.08.20-05.31.32:940][266]LogEditorTransaction: Undo Remove Widget
+[2021.08.20-05.32.46:591][388]LogUObjectHash: Warning: Ambiguous path search, could be Class /Script/UMG.WidgetTree or WidgetTree /Script/UnrealEd.Default__BaseWidgetBlueprint:WidgetTree
+[2021.08.20-05.32.46:591][388]LogUObjectHash: Warning: Ambiguous path search, could be Class /Script/UMG.WidgetTree or WidgetTree /Script/UMGEditor.Default__WidgetBlueprint:WidgetTree
+[2021.08.20-05.32.46:591][388]LogUObjectHash: Warning: Ambiguous path search, could be Class /Script/UMG.WidgetTree or WidgetTree /Script/Blutility.Default__EditorUtilityWidgetBlueprint:WidgetTree
+[2021.08.20-05.32.46:591][388]LogUObjectHash: Warning: Ambiguous path search, could be Class /Script/UMG.WidgetTree or WidgetTree /Game/Blueprints/Quest_System/Quest_UI/Objective_Widget.Objective_Widget:WidgetTree
+[2021.08.20-05.32.46:591][388]LogUObjectHash: Warning: Ambiguous path search, could be Class /Script/UMG.WidgetTree or WidgetTree /Game/UX/Wgt_Player_UI.Wgt_Player_UI_C:WidgetTree
+[2021.08.20-05.32.46:591][388]LogUObjectHash: Warning: Ambiguous path search, could be Class /Script/UMG.WidgetTree or WidgetTree /Game/Blueprints/Quest_System/Quest_UI/Quest_Widget_UI.Quest_Widget_UI:WidgetTree
+[2021.08.20-05.32.46:591][388]LogUObjectHash: Warning: Ambiguous path search, could be Class /Script/UMG.WidgetTree or WidgetTree /Game/UX/Wgt_PauseMenu.Wgt_PauseMenu_C:WidgetTree
+[2021.08.20-05.32.46:591][388]LogUObjectHash: Warning: Ambiguous path search, could be Class /Script/UMG.WidgetTree or WidgetTree /Game/Blueprints/Equipment_System/CharacterSheet.CharacterSheet:WidgetTree
+[2021.08.20-05.32.46:591][388]LogUObjectHash: Warning: Ambiguous path search, could be Class /Script/UMG.WidgetTree or WidgetTree /Game/UX/Wgt_Trader.Wgt_Trader_C:WidgetTree
+[2021.08.20-05.32.46:591][388]LogUObjectHash: Warning: Ambiguous path search, could be Class /Script/UMG.WidgetTree or WidgetTree /Game/UX/Wgt_PauseMenu.Wgt_PauseMenu:WidgetTree
+[2021.08.20-05.32.46:591][388]LogUObjectHash: Warning: Ambiguous path search, could be Class /Script/UMG.WidgetTree or WidgetTree /Game/Blueprints/Quest_System/Quest_UI/Quest_Widget_UI.Quest_Widget_UI_C:WidgetTree
+[2021.08.20-05.32.46:591][388]LogUObjectHash: Warning: Ambiguous path search, could be Class /Script/UMG.WidgetTree or WidgetTree /Game/UX/Wgt_Player_UI.Wgt_Player_UI:WidgetTree
+[2021.08.20-05.32.46:591][388]LogUObjectHash: Warning: Ambiguous path search, could be Class /Script/UMG.WidgetTree or WidgetTree /Game/Blueprints/Quest_System/Quest_UI/Objective_Widget.Objective_Widget_C:WidgetTree
+[2021.08.20-05.32.46:591][388]LogUObjectHash: Warning: Ambiguous path search, could be Class /Script/UMG.WidgetTree or WidgetTree /Game/UX/Wgt_Trader.Wgt_Trader:WidgetTree
+[2021.08.20-05.32.46:591][388]LogUObjectHash: Warning: Ambiguous path search, could be Class /Script/UMG.WidgetTree or WidgetTree /Game/Blueprints/Equipment_System/CharacterSheet.CharacterSheet_C:WidgetTree
+[2021.08.20-05.32.46:591][388]LogUObjectHash: Warning: Ambiguous path search, could be Class /Script/UMG.WidgetTree or WidgetTree /Game/UX/Wgt_MainMenu.Wgt_MainMenu:WidgetTree
+[2021.08.20-05.32.46:591][388]LogUObjectHash: Warning: Ambiguous path search, could be Class /Script/UMG.WidgetTree or WidgetTree /Game/UX/Wgt_MainMenu.Wgt_MainMenu_C:WidgetTree
+[2021.08.20-05.32.46:591][388]LogUObjectHash: Warning: Ambiguous path search, could be Class /Script/UMG.WidgetTree or WidgetTree /Engine/Transient.World_20:Wgt_Player_UI_C_9.WidgetTree.CharacterSheet.WidgetTree
+[2021.08.20-05.32.46:591][388]LogUObjectHash: Warning: Ambiguous path search, could be Class /Script/UMG.WidgetTree or WidgetTree /Engine/Transient.World_20:Wgt_Player_UI_C_9.WidgetTree
+[2021.08.20-05.32.46:591][388]LogUObjectHash: Warning: Ambiguous path search, could be Class /Script/UMG.WidgetTree or WidgetTree /Engine/Transient.World_23:Armor_Slot_C_5.WidgetTree
+[2021.08.20-05.32.46:591][388]LogUObjectHash: Warning: Ambiguous path search, could be Class /Script/UMG.WidgetTree or WidgetTree /Engine/Transient.REINST_Armor_Slot_C_42:WidgetTree
+[2021.08.20-05.32.46:591][388]LogUObjectHash: Warning: Ambiguous path search, could be Class /Script/UMG.WidgetTree or WidgetTree /Game/Blueprints/Equipment_System/Armor_Slot.Armor_Slot:WidgetTree
+[2021.08.20-05.32.46:591][388]LogUObjectHash: Warning: Ambiguous path search, could be Class /Script/UMG.WidgetTree or WidgetTree /Game/Blueprints/Equipment_System/Armor_Slot.Armor_Slot_C:WidgetTree
+[2021.08.20-05.32.46:591][388]LogUObjectHash: Warning: Ambiguous path search, could be Class /Script/UMG.WidgetTree or WidgetTree /Engine/Transient.World_23:Armor_Slot_C_4.WidgetTree
+[2021.08.20-05.32.46:591][388]LogUObjectHash: Warning: Ambiguous path search, could be Class /Script/UMG.WidgetTree or WidgetTree /Engine/Transient.World_23:Armor_Slot_C_3.WidgetTree
+[2021.08.20-05.32.46:591][388]LogUObjectHash: Warning: Ambiguous path search, could be Class /Script/UMG.WidgetTree or WidgetTree /Engine/Transient.World_23:Armor_Slot_C_2.WidgetTree
+[2021.08.20-05.32.46:591][388]LogUObjectHash: Warning: Ambiguous path search, could be Class /Script/UMG.WidgetTree or WidgetTree /Engine/Transient.REINST_Armor_Slot_C_46:WidgetTree
+[2021.08.20-05.32.46:591][388]LogUObjectHash: Warning: Ambiguous path search, could be Class /Script/UMG.WidgetTree or WidgetTree /Engine/Transient.World_23:Armor_Slot_C_9.WidgetTree
+[2021.08.20-05.32.46:591][388]LogUObjectHash: Warning: Ambiguous path search, could be Class /Script/UMG.WidgetTree or WidgetTree /Engine/Transient.World_23:Armor_Slot_C_8.WidgetTree
+[2021.08.20-05.32.46:591][388]LogUObjectHash: Warning: Ambiguous path search, could be Class /Script/UMG.WidgetTree or WidgetTree /Engine/Transient.World_23:Armor_Slot_C_10.WidgetTree
+[2021.08.20-05.32.46:591][388]LogUObjectHash: Warning: Ambiguous path search, could be Class /Script/UMG.WidgetTree or WidgetTree /Engine/Transient.World_23:Armor_Slot_C_11.WidgetTree
+[2021.08.20-05.32.46:591][388]LogUObjectHash: Warning: Ambiguous path search, could be Class /Script/UMG.WidgetTree or WidgetTree /Engine/Transient.World_25:Armor_Slot_C_0.WidgetTree
+[2021.08.20-05.32.46:591][388]LogUObjectHash: Warning: Ambiguous path search, could be Class /Script/UMG.WidgetTree or WidgetTree /Engine/Transient.World_20:Wgt_Player_UI_C_10.WidgetTree
+[2021.08.20-05.32.46:591][388]LogUObjectHash: Warning: Ambiguous path search, could be Class /Script/UMG.WidgetTree or WidgetTree /Engine/Transient.World_20:Wgt_Player_UI_C_10.WidgetTree.CharacterSheet.WidgetTree
+[2021.08.20-05.32.46:591][388]LogUObjectHash: Warning: Ambiguous path search, could be Class /Script/UMG.WidgetTree or WidgetTree /Engine/Transient.World_27:CharacterSheet_C_0.WidgetTree
+[2021.08.20-05.32.46:591][388]LogUObjectHash: Warning: Ambiguous path search, could be Class /Script/UMG.WidgetTree or WidgetTree /Engine/Transient.World_27:CharacterSheet_C_1.WidgetTree
+[2021.08.20-05.32.46:591][388]LogUObjectHash: Warning: Ambiguous path search, could be Class /Script/UMG.WidgetTree or WidgetTree /Engine/Transient.World_27:CharacterSheet_C_2.WidgetTree
+[2021.08.20-05.32.46:591][388]LogUObjectHash: Warning: Ambiguous path search, could be Class /Script/UMG.WidgetTree or WidgetTree /Engine/Transient.World_27:CharacterSheet_C_3.WidgetTree
+[2021.08.20-05.32.46:591][388]LogUObjectHash: Warning: Ambiguous path search, could be Class /Script/UMG.WidgetTree or WidgetTree /Engine/Transient.World_27:CharacterSheet_C_4.WidgetTree
+[2021.08.20-05.32.46:591][388]LogUObjectHash: Warning: Ambiguous path search, could be Class /Script/UMG.WidgetTree or WidgetTree /Engine/Transient.Armor_Slot:WidgetTree
+[2021.08.20-05.32.46:591][388]LogUObjectHash: Warning: Ambiguous path search, could be Class /Script/UMG.WidgetTree or WidgetTree /Engine/Transient.Armor_Slot_C_1:WidgetTree
+[2021.08.20-05.32.46:591][388]LogUObjectHash: Warning: Ambiguous path search, could be Class /Script/UMG.WidgetTree or WidgetTree /Engine/Transient.Armor_Slot_C_2:WidgetTree
+[2021.08.20-05.32.46:591][388]LogUObjectHash: Warning: Ambiguous path search, could be Class /Script/UMG.WidgetTree or WidgetTree /Engine/Transient.Armor_Slot_C_3:WidgetTree
+[2021.08.20-05.32.46:591][388]LogUObjectHash: Warning: Ambiguous path search, could be Class /Script/UMG.WidgetTree or WidgetTree /Engine/Transient.Armor_Slot_C_4:WidgetTree
+[2021.08.20-05.32.46:591][388]LogUObjectHash: Warning: Ambiguous path search, could be Class /Script/UMG.WidgetTree or WidgetTree /Engine/Transient.Armor_Slot_C_5:WidgetTree
+[2021.08.20-05.32.46:591][388]LogUObjectHash: Warning: Ambiguous path search, could be Class /Script/UMG.WidgetTree or WidgetTree /Engine/Transient.Armor_Slot_C_6:WidgetTree
+[2021.08.20-05.32.46:591][388]LogUObjectHash: Warning: Ambiguous path search, could be Class /Script/UMG.WidgetTree or WidgetTree /Engine/Transient.Armor_Slot_C_7:WidgetTree
+[2021.08.20-05.32.46:591][388]LogUObjectHash: Warning: Ambiguous path search, could be Class /Script/UMG.WidgetTree or WidgetTree /Engine/Transient.Armor_Slot_C_8:WidgetTree
+[2021.08.20-05.32.46:591][388]LogUObjectHash: Warning: Ambiguous path search, could be Class /Script/UMG.WidgetTree or WidgetTree /Engine/Transient.Armor_Slot_C_9:WidgetTree
+[2021.08.20-05.32.46:591][388]LogUObjectHash: Warning: Ambiguous path search, could be Class /Script/UMG.WidgetTree or WidgetTree /Engine/Transient.Armor_Slot_C_10:WidgetTree
+[2021.08.20-05.32.46:591][388]LogUObjectHash: Warning: Ambiguous path search, could be Class /Script/UMG.WidgetTree or WidgetTree /Engine/Transient.Armor_Slot_C_11:WidgetTree
+[2021.08.20-05.32.46:591][388]LogUObjectHash: Warning: Ambiguous path search, could be Class /Script/UMG.WidgetTree or WidgetTree /Engine/Transient.Armor_Slot_C_12:WidgetTree
+[2021.08.20-05.32.46:592][388]LogUObjectHash: Warning: Ambiguous path search, could be Class /Script/UMG.WidgetTree or WidgetTree /Engine/Transient.Armor_Slot_C_13:WidgetTree
+[2021.08.20-05.32.46:592][388]LogUObjectHash: Warning: Ambiguous path search, could be Class /Script/UMG.WidgetTree or WidgetTree /Engine/Transient.Armor_Slot_C_14:WidgetTree
+[2021.08.20-05.32.46:592][388]LogUObjectHash: Warning: Ambiguous path search, could be Class /Script/UMG.WidgetTree or WidgetTree /Engine/Transient.Armor_Slot_C_15:WidgetTree
+[2021.08.20-05.32.46:592][388]LogUObjectHash: Warning: Ambiguous path search, could be Class /Script/UMG.WidgetTree or WidgetTree /Engine/Transient.Armor_Slot_C_16:WidgetTree
+[2021.08.20-05.32.46:592][388]LogUObjectHash: Warning: Ambiguous path search, could be Class /Script/UMG.WidgetTree or WidgetTree /Engine/Transient.Armor_Slot_C_17:WidgetTree
+[2021.08.20-05.32.46:592][388]LogUObjectHash: Warning: Ambiguous path search, could be Class /Script/UMG.WidgetTree or WidgetTree /Engine/Transient.Armor_Slot_C_18:WidgetTree
+[2021.08.20-05.32.46:592][388]LogUObjectHash: Warning: Ambiguous path search, could be Class /Script/UMG.WidgetTree or WidgetTree /Engine/Transient.Armor_Slot_C_19:WidgetTree
+[2021.08.20-05.32.46:592][388]LogUObjectHash: Warning: Ambiguous path search, could be Class /Script/UMG.WidgetTree or WidgetTree /Engine/Transient.Armor_Slot_C_20:WidgetTree
+[2021.08.20-05.32.46:592][388]LogUObjectHash: Warning: Ambiguous path search, could be Class /Script/UMG.WidgetTree or WidgetTree /Engine/Transient.Armor_Slot_C_21:WidgetTree
+[2021.08.20-05.32.46:592][388]LogUObjectHash: Warning: Ambiguous path search, could be Class /Script/UMG.WidgetTree or WidgetTree /Engine/Transient.Armor_Slot_C_22:WidgetTree
+[2021.08.20-05.32.46:592][388]LogUObjectHash: Warning: Ambiguous path search, could be Class /Script/UMG.WidgetTree or WidgetTree /Engine/Transient.Armor_Slot_C_23:WidgetTree
+[2021.08.20-05.32.46:592][388]LogUObjectHash: Warning: Ambiguous path search, could be Class /Script/UMG.WidgetTree or WidgetTree /Engine/Transient.Armor_Slot_C_24:WidgetTree
+[2021.08.20-05.32.46:592][388]LogUObjectHash: Warning: Ambiguous path search, could be Class /Script/UMG.WidgetTree or WidgetTree /Engine/Transient.Armor_Slot_C_25:WidgetTree
+[2021.08.20-05.32.46:592][388]LogUObjectHash: Warning: Ambiguous path search, could be Class /Script/UMG.WidgetTree or WidgetTree /Engine/Transient.Armor_Slot_C_26:WidgetTree
+[2021.08.20-05.32.46:592][388]LogUObjectHash: Warning: Ambiguous path search, could be Class /Script/UMG.WidgetTree or WidgetTree /Engine/Transient.Armor_Slot_C_27:WidgetTree
+[2021.08.20-05.32.46:592][388]LogUObjectHash: Warning: Ambiguous path search, could be Class /Script/UMG.WidgetTree or WidgetTree /Engine/Transient.Armor_Slot_C_28:WidgetTree
+[2021.08.20-05.32.46:592][388]LogUObjectHash: Warning: Ambiguous path search, could be Class /Script/UMG.WidgetTree or WidgetTree /Engine/Transient.Armor_Slot_C_29:WidgetTree
+[2021.08.20-05.32.46:592][388]LogUObjectHash: Warning: Ambiguous path search, could be Class /Script/UMG.WidgetTree or WidgetTree /Engine/Transient.Armor_Slot_C_30:WidgetTree
+[2021.08.20-05.32.46:592][388]LogUObjectHash: Warning: Ambiguous path search, could be Class /Script/UMG.WidgetTree or WidgetTree /Engine/Transient.Armor_Slot_C_31:WidgetTree
+[2021.08.20-05.32.46:592][388]LogUObjectHash: Warning: Ambiguous path search, could be Class /Script/UMG.WidgetTree or WidgetTree /Engine/Transient.Armor_Slot_C_32:WidgetTree
+[2021.08.20-05.32.46:592][388]LogUObjectHash: Warning: Ambiguous path search, could be Class /Script/UMG.WidgetTree or WidgetTree /Engine/Transient.Armor_Slot_C_33:WidgetTree
+[2021.08.20-05.32.46:592][388]LogUObjectHash: Warning: Ambiguous path search, could be Class /Script/UMG.WidgetTree or WidgetTree /Engine/Transient.Armor_Slot_C_34:WidgetTree
+[2021.08.20-05.32.46:592][388]LogUObjectHash: Warning: Ambiguous path search, could be Class /Script/UMG.WidgetTree or WidgetTree /Engine/Transient.Armor_Slot_C_35:WidgetTree
+[2021.08.20-05.32.46:592][388]LogUObjectHash: Warning: Ambiguous path search, could be Class /Script/UMG.WidgetTree or WidgetTree /Engine/Transient.Armor_Slot_C_36:WidgetTree
+[2021.08.20-05.32.46:592][388]LogUObjectHash: Warning: Ambiguous path search, could be Class /Script/UMG.WidgetTree or WidgetTree /Engine/Transient.Armor_Slot_C_37:WidgetTree
+[2021.08.20-05.32.46:592][388]LogUObjectHash: Warning: Ambiguous path search, could be Class /Script/UMG.WidgetTree or WidgetTree /Engine/Transient.Armor_Slot_C_38:WidgetTree
+[2021.08.20-05.32.46:592][388]LogUObjectHash: Warning: Ambiguous path search, could be Class /Script/UMG.WidgetTree or WidgetTree /Engine/Transient.Armor_Slot_C_39:WidgetTree
+[2021.08.20-05.32.46:592][388]LogUObjectHash: Warning: Ambiguous path search, could be Class /Script/UMG.WidgetTree or WidgetTree /Engine/Transient.Armor_Slot_C_40:WidgetTree
+[2021.08.20-05.32.46:592][388]LogUObjectHash: Warning: Ambiguous path search, could be Class /Script/UMG.WidgetTree or WidgetTree /Engine/Transient.Armor_Slot_C_41:WidgetTree
+[2021.08.20-05.32.46:592][388]LogUObjectHash: Warning: Ambiguous path search, could be Class /Script/UMG.WidgetTree or WidgetTree /Engine/Transient.Armor_Slot_C_42:WidgetTree
+[2021.08.20-05.32.46:592][388]LogUObjectHash: Warning: Ambiguous path search, could be Class /Script/UMG.WidgetTree or WidgetTree /Engine/Transient.Armor_Slot_C_43:WidgetTree
+[2021.08.20-05.32.46:592][388]LogUObjectHash: Warning: Ambiguous path search, could be Class /Script/UMG.WidgetTree or WidgetTree /Engine/Transient.Armor_Slot_C_44:WidgetTree
+[2021.08.20-05.32.46:592][388]LogUObjectHash: Warning: Ambiguous path search, could be Class /Script/UMG.WidgetTree or WidgetTree /Engine/Transient.Armor_Slot_C_45:WidgetTree
+[2021.08.20-05.32.46:592][388]LogUObjectHash: Warning: Ambiguous path search, could be Class /Script/UMG.WidgetTree or WidgetTree /Engine/Transient.Armor_Slot_C_46:WidgetTree
+[2021.08.20-05.32.46:592][388]LogUObjectHash: Warning: Ambiguous path search, could be Class /Script/UMG.WidgetTree or WidgetTree /Engine/Transient.Armor_Slot_C_47:WidgetTree
+[2021.08.20-05.32.46:592][388]LogUObjectHash: Warning: Ambiguous path search, could be Class /Script/UMG.WidgetTree or WidgetTree /Engine/Transient.Armor_Slot_C_48:WidgetTree
+[2021.08.20-05.32.46:592][388]LogUObjectHash: Warning: Ambiguous path search, could be Class /Script/UMG.WidgetTree or WidgetTree /Engine/Transient.Armor_Slot_C_49:WidgetTree
+[2021.08.20-05.32.46:592][388]LogUObjectHash: Warning: Ambiguous path search, could be Class /Script/UMG.WidgetTree or WidgetTree /Engine/Transient.Armor_Slot_C_50:WidgetTree
+[2021.08.20-05.32.46:592][388]LogUObjectHash: Warning: Ambiguous path search, could be Class /Script/UMG.WidgetTree or WidgetTree /Engine/Transient.Armor_Slot_C_51:WidgetTree
+[2021.08.20-05.32.46:592][388]LogUObjectHash: Warning: Ambiguous path search, could be Class /Script/UMG.WidgetTree or WidgetTree /Engine/Transient.Armor_Slot_C_52:WidgetTree
+[2021.08.20-05.32.46:592][388]LogUObjectHash: Warning: Ambiguous path search, could be Class /Script/UMG.WidgetTree or WidgetTree /Engine/Transient.Armor_Slot_C_53:WidgetTree
+[2021.08.20-05.32.46:592][388]LogUObjectHash: Warning: Ambiguous path search, could be Class /Script/UMG.WidgetTree or WidgetTree /Engine/Transient.Armor_Slot_C_54:WidgetTree
+[2021.08.20-05.32.46:592][388]LogUObjectHash: Warning: Ambiguous path search, could be Class /Script/UMG.WidgetTree or WidgetTree /Engine/Transient.Armor_Slot_C_55:WidgetTree
+[2021.08.20-05.32.46:592][388]LogUObjectHash: Warning: Ambiguous path search, could be Class /Script/UMG.WidgetTree or WidgetTree /Engine/Transient.Armor_Slot_C_56:WidgetTree
+[2021.08.20-05.32.46:592][388]LogUObjectHash: Warning: Ambiguous path search, could be Class /Script/UMG.WidgetTree or WidgetTree /Engine/Transient.Armor_Slot_C_57:WidgetTree
+[2021.08.20-05.32.46:592][388]LogUObjectHash: Warning: Ambiguous path search, could be Class /Script/UMG.WidgetTree or WidgetTree /Engine/Transient.Armor_Slot_C_58:WidgetTree
+[2021.08.20-05.32.46:592][388]LogUObjectHash: Warning: Ambiguous path search, could be Class /Script/UMG.WidgetTree or WidgetTree /Engine/Transient.Armor_Slot_C_59:WidgetTree
+[2021.08.20-05.32.46:592][388]LogUObjectHash: Warning: Ambiguous path search, could be Class /Script/UMG.WidgetTree or WidgetTree /Engine/Transient.Armor_Slot_C_60:WidgetTree
+[2021.08.20-05.32.46:592][388]LogUObjectHash: Warning: Ambiguous path search, could be Class /Script/UMG.WidgetTree or WidgetTree /Engine/Transient.Armor_Slot_C_61:WidgetTree
+[2021.08.20-05.32.46:592][388]LogUObjectHash: Warning: Ambiguous path search, could be Class /Script/UMG.WidgetTree or WidgetTree /Engine/Transient.Armor_Slot_C_62:WidgetTree
+[2021.08.20-05.32.46:592][388]LogUObjectHash: Warning: Ambiguous path search, could be Class /Script/UMG.WidgetTree or WidgetTree /Engine/Transient.Armor_Slot_C_63:WidgetTree
+[2021.08.20-05.32.46:592][388]LogUObjectHash: Warning: Ambiguous path search, could be Class /Script/UMG.WidgetTree or WidgetTree /Engine/Transient.Armor_Slot_C_64:WidgetTree
+[2021.08.20-05.32.46:592][388]LogUObjectHash: Warning: Ambiguous path search, could be Class /Script/UMG.WidgetTree or WidgetTree /Engine/Transient.Armor_Slot_C_65:WidgetTree
+[2021.08.20-05.32.46:592][388]LogUObjectHash: Warning: Ambiguous path search, could be Class /Script/UMG.WidgetTree or WidgetTree /Engine/Transient.Armor_Slot_C_66:WidgetTree
+[2021.08.20-05.32.46:592][388]LogUObjectHash: Warning: Ambiguous path search, could be Class /Script/UMG.WidgetTree or WidgetTree /Engine/Transient.Armor_Slot_C_67:WidgetTree
+[2021.08.20-05.32.46:592][388]LogUObjectHash: Warning: Ambiguous path search, could be Class /Script/UMG.WidgetTree or WidgetTree /Engine/Transient.Armor_Slot_C_68:WidgetTree
+[2021.08.20-05.32.46:592][388]LogUObjectHash: Warning: Ambiguous path search, could be Class /Script/UMG.WidgetTree or WidgetTree /Engine/Transient.Armor_Slot_C_69:WidgetTree
+[2021.08.20-05.32.46:592][388]LogUObjectHash: Warning: Ambiguous path search, could be Class /Script/UMG.WidgetTree or WidgetTree /Engine/Transient.Armor_Slot_C_70:WidgetTree
+[2021.08.20-05.32.46:592][388]LogUObjectHash: Warning: Ambiguous path search, could be Class /Script/UMG.WidgetTree or WidgetTree /Engine/Transient.Armor_Slot_C_71:WidgetTree
+[2021.08.20-05.32.46:592][388]LogUObjectHash: Warning: Ambiguous path search, could be Class /Script/UMG.WidgetTree or WidgetTree /Engine/Transient.Armor_Slot_C_72:WidgetTree
+[2021.08.20-05.32.46:592][388]LogUObjectHash: Warning: Ambiguous path search, could be Class /Script/UMG.WidgetTree or WidgetTree /Engine/Transient.Armor_Slot_C_73:WidgetTree
+[2021.08.20-05.32.46:592][388]LogUObjectHash: Warning: Ambiguous path search, could be Class /Script/UMG.WidgetTree or WidgetTree /Engine/Transient.Armor_Slot_C_74:WidgetTree
+[2021.08.20-05.32.46:592][388]LogUObjectHash: Warning: Ambiguous path search, could be Class /Script/UMG.WidgetTree or WidgetTree /Engine/Transient.Armor_Slot_C_75:WidgetTree
+[2021.08.20-05.32.46:592][388]LogUObjectHash: Warning: Ambiguous path search, could be Class /Script/UMG.WidgetTree or WidgetTree /Game/Blueprints/Equipment_System/CharacterSheet.CharacterSheet:WidgetTree.Armor_Slot.WidgetTree
+[2021.08.20-05.32.46:592][388]LogUObjectHash: Warning: Ambiguous path search, could be Class /Script/UMG.WidgetTree or WidgetTree /Engine/Transient.World_27:CharacterSheet_C_5.WidgetTree
+[2021.08.20-05.32.46:592][388]LogUObjectHash: Warning: Ambiguous path search, could be Class /Script/UMG.WidgetTree or WidgetTree /Engine/Transient.World_27:CharacterSheet_C_5.WidgetTree.Armor_Slot.WidgetTree
+[2021.08.20-05.32.46:592][388]LogUObjectHash: Warning: Ambiguous path search, could be Class /Script/UMG.WidgetTree or WidgetTree /Engine/Transient.Armor_Slot_0:WidgetTree
+[2021.08.20-05.32.46:592][388]LogUObjectHash: Warning: Ambiguous path search, could be Image /Engine/Transient.World_23:Armor_Slot_C_8.WidgetTree.Armor_Image or Image /Game/Blueprints/Equipment_System/Armor_Slot.Armor_Slot:WidgetTree.Armor_Image
+[2021.08.20-05.32.46:592][388]LogUObjectHash: Warning: Ambiguous path search, could be Image /Engine/Transient.World_23:Armor_Slot_C_8.WidgetTree.Armor_Image or Image /Engine/Transient.World_23:Armor_Slot_C_9.WidgetTree.Armor_Image
+[2021.08.20-05.32.46:593][388]LogUObjectHash: Warning: Ambiguous path search, could be Image /Engine/Transient.World_23:Armor_Slot_C_8.WidgetTree.Armor_Image or Image /Game/Blueprints/Equipment_System/Armor_Slot.Armor_Slot_C:WidgetTree.Armor_Image
+[2021.08.20-05.32.46:593][388]LogUObjectHash: Warning: Ambiguous path search, could be Image /Engine/Transient.World_23:Armor_Slot_C_8.WidgetTree.Armor_Image or Image /Engine/Transient.World_23:Armor_Slot_C_10.WidgetTree.Armor_Image
+[2021.08.20-05.32.46:593][388]LogUObjectHash: Warning: Ambiguous path search, could be Image /Engine/Transient.World_23:Armor_Slot_C_8.WidgetTree.Armor_Image or Image /Engine/Transient.World_23:Armor_Slot_C_11.WidgetTree.Armor_Image
+[2021.08.20-05.32.46:593][388]LogUObjectHash: Warning: Ambiguous path search, could be Image /Engine/Transient.World_23:Armor_Slot_C_8.WidgetTree.Armor_Image or Image /Engine/Transient.World_25:Armor_Slot_C_0.WidgetTree.Armor_Image
+[2021.08.20-05.32.46:593][388]LogUObjectHash: Warning: Ambiguous path search, could be Image /Engine/Transient.World_23:Armor_Slot_C_8.WidgetTree.Armor_Image or Image /Engine/Transient.Armor_Slot:WidgetTree.Armor_Image
+[2021.08.20-05.32.46:593][388]LogUObjectHash: Warning: Ambiguous path search, could be Image /Engine/Transient.World_23:Armor_Slot_C_8.WidgetTree.Armor_Image or Image /Engine/Transient.Armor_Slot_C_1:WidgetTree.Armor_Image
+[2021.08.20-05.32.46:593][388]LogUObjectHash: Warning: Ambiguous path search, could be Image /Engine/Transient.World_23:Armor_Slot_C_8.WidgetTree.Armor_Image or Image /Engine/Transient.Armor_Slot_C_2:WidgetTree.Armor_Image
+[2021.08.20-05.32.46:593][388]LogUObjectHash: Warning: Ambiguous path search, could be Image /Engine/Transient.World_23:Armor_Slot_C_8.WidgetTree.Armor_Image or Image /Engine/Transient.Armor_Slot_C_3:WidgetTree.Armor_Image
+[2021.08.20-05.32.46:593][388]LogUObjectHash: Warning: Ambiguous path search, could be Image /Engine/Transient.World_23:Armor_Slot_C_8.WidgetTree.Armor_Image or Image /Engine/Transient.Armor_Slot_C_4:WidgetTree.Armor_Image
+[2021.08.20-05.32.46:593][388]LogUObjectHash: Warning: Ambiguous path search, could be Image /Engine/Transient.World_23:Armor_Slot_C_8.WidgetTree.Armor_Image or Image /Engine/Transient.Armor_Slot_C_5:WidgetTree.Armor_Image
+[2021.08.20-05.32.46:593][388]LogUObjectHash: Warning: Ambiguous path search, could be Image /Engine/Transient.World_23:Armor_Slot_C_8.WidgetTree.Armor_Image or Image /Engine/Transient.Armor_Slot_C_6:WidgetTree.Armor_Image
+[2021.08.20-05.32.46:593][388]LogUObjectHash: Warning: Ambiguous path search, could be Image /Engine/Transient.World_23:Armor_Slot_C_8.WidgetTree.Armor_Image or Image /Engine/Transient.Armor_Slot_C_7:WidgetTree.Armor_Image
+[2021.08.20-05.32.46:593][388]LogUObjectHash: Warning: Ambiguous path search, could be Image /Engine/Transient.World_23:Armor_Slot_C_8.WidgetTree.Armor_Image or Image /Engine/Transient.Armor_Slot_C_8:WidgetTree.Armor_Image
+[2021.08.20-05.32.46:593][388]LogUObjectHash: Warning: Ambiguous path search, could be Image /Engine/Transient.World_23:Armor_Slot_C_8.WidgetTree.Armor_Image or Image /Engine/Transient.Armor_Slot_C_9:WidgetTree.Armor_Image
+[2021.08.20-05.32.46:593][388]LogUObjectHash: Warning: Ambiguous path search, could be Image /Engine/Transient.World_23:Armor_Slot_C_8.WidgetTree.Armor_Image or Image /Engine/Transient.Armor_Slot_C_10:WidgetTree.Armor_Image
+[2021.08.20-05.32.46:593][388]LogUObjectHash: Warning: Ambiguous path search, could be Image /Engine/Transient.World_23:Armor_Slot_C_8.WidgetTree.Armor_Image or Image /Engine/Transient.Armor_Slot_C_11:WidgetTree.Armor_Image
+[2021.08.20-05.32.46:593][388]LogUObjectHash: Warning: Ambiguous path search, could be Image /Engine/Transient.World_23:Armor_Slot_C_8.WidgetTree.Armor_Image or Image /Engine/Transient.Armor_Slot_C_12:WidgetTree.Armor_Image
+[2021.08.20-05.32.46:593][388]LogUObjectHash: Warning: Ambiguous path search, could be Image /Engine/Transient.World_23:Armor_Slot_C_8.WidgetTree.Armor_Image or Image /Engine/Transient.Armor_Slot_C_13:WidgetTree.Armor_Image
+[2021.08.20-05.32.46:593][388]LogUObjectHash: Warning: Ambiguous path search, could be Image /Engine/Transient.World_23:Armor_Slot_C_8.WidgetTree.Armor_Image or Image /Engine/Transient.Armor_Slot_C_14:WidgetTree.Armor_Image
+[2021.08.20-05.32.46:593][388]LogUObjectHash: Warning: Ambiguous path search, could be Image /Engine/Transient.World_23:Armor_Slot_C_8.WidgetTree.Armor_Image or Image /Engine/Transient.Armor_Slot_C_15:WidgetTree.Armor_Image
+[2021.08.20-05.32.46:593][388]LogUObjectHash: Warning: Ambiguous path search, could be Image /Engine/Transient.World_23:Armor_Slot_C_8.WidgetTree.Armor_Image or Image /Engine/Transient.Armor_Slot_C_16:WidgetTree.Armor_Image
+[2021.08.20-05.32.46:593][388]LogUObjectHash: Warning: Ambiguous path search, could be Image /Engine/Transient.World_23:Armor_Slot_C_8.WidgetTree.Armor_Image or Image /Engine/Transient.Armor_Slot_C_17:WidgetTree.Armor_Image
+[2021.08.20-05.32.46:593][388]LogUObjectHash: Warning: Ambiguous path search, could be Image /Engine/Transient.World_23:Armor_Slot_C_8.WidgetTree.Armor_Image or Image /Engine/Transient.Armor_Slot_C_18:WidgetTree.Armor_Image
+[2021.08.20-05.32.46:593][388]LogUObjectHash: Warning: Ambiguous path search, could be Image /Engine/Transient.World_23:Armor_Slot_C_8.WidgetTree.Armor_Image or Image /Engine/Transient.Armor_Slot_C_19:WidgetTree.Armor_Image
+[2021.08.20-05.32.46:593][388]LogUObjectHash: Warning: Ambiguous path search, could be Image /Engine/Transient.World_23:Armor_Slot_C_8.WidgetTree.Armor_Image or Image /Engine/Transient.Armor_Slot_C_20:WidgetTree.Armor_Image
+[2021.08.20-05.32.46:593][388]LogUObjectHash: Warning: Ambiguous path search, could be Image /Engine/Transient.World_23:Armor_Slot_C_8.WidgetTree.Armor_Image or Image /Engine/Transient.Armor_Slot_C_21:WidgetTree.Armor_Image
+[2021.08.20-05.32.46:593][388]LogUObjectHash: Warning: Ambiguous path search, could be Image /Engine/Transient.World_23:Armor_Slot_C_8.WidgetTree.Armor_Image or Image /Engine/Transient.Armor_Slot_C_22:WidgetTree.Armor_Image
+[2021.08.20-05.32.46:593][388]LogUObjectHash: Warning: Ambiguous path search, could be Image /Engine/Transient.World_23:Armor_Slot_C_8.WidgetTree.Armor_Image or Image /Engine/Transient.Armor_Slot_C_23:WidgetTree.Armor_Image
+[2021.08.20-05.32.46:593][388]LogUObjectHash: Warning: Ambiguous path search, could be Image /Engine/Transient.World_23:Armor_Slot_C_8.WidgetTree.Armor_Image or Image /Engine/Transient.Armor_Slot_C_24:WidgetTree.Armor_Image
+[2021.08.20-05.32.46:593][388]LogUObjectHash: Warning: Ambiguous path search, could be Image /Engine/Transient.World_23:Armor_Slot_C_8.WidgetTree.Armor_Image or Image /Engine/Transient.Armor_Slot_C_25:WidgetTree.Armor_Image
+[2021.08.20-05.32.46:593][388]LogUObjectHash: Warning: Ambiguous path search, could be Image /Engine/Transient.World_23:Armor_Slot_C_8.WidgetTree.Armor_Image or Image /Engine/Transient.Armor_Slot_C_26:WidgetTree.Armor_Image
+[2021.08.20-05.32.46:593][388]LogUObjectHash: Warning: Ambiguous path search, could be Image /Engine/Transient.World_23:Armor_Slot_C_8.WidgetTree.Armor_Image or Image /Engine/Transient.Armor_Slot_C_27:WidgetTree.Armor_Image
+[2021.08.20-05.32.46:593][388]LogUObjectHash: Warning: Ambiguous path search, could be Image /Engine/Transient.World_23:Armor_Slot_C_8.WidgetTree.Armor_Image or Image /Engine/Transient.Armor_Slot_C_28:WidgetTree.Armor_Image
+[2021.08.20-05.32.46:593][388]LogUObjectHash: Warning: Ambiguous path search, could be Image /Engine/Transient.World_23:Armor_Slot_C_8.WidgetTree.Armor_Image or Image /Engine/Transient.Armor_Slot_C_29:WidgetTree.Armor_Image
+[2021.08.20-05.32.46:593][388]LogUObjectHash: Warning: Ambiguous path search, could be Image /Engine/Transient.World_23:Armor_Slot_C_8.WidgetTree.Armor_Image or Image /Engine/Transient.Armor_Slot_C_30:WidgetTree.Armor_Image
+[2021.08.20-05.32.46:593][388]LogUObjectHash: Warning: Ambiguous path search, could be Image /Engine/Transient.World_23:Armor_Slot_C_8.WidgetTree.Armor_Image or Image /Engine/Transient.Armor_Slot_C_31:WidgetTree.Armor_Image
+[2021.08.20-05.32.46:593][388]LogUObjectHash: Warning: Ambiguous path search, could be Image /Engine/Transient.World_23:Armor_Slot_C_8.WidgetTree.Armor_Image or Image /Engine/Transient.Armor_Slot_C_32:WidgetTree.Armor_Image
+[2021.08.20-05.32.46:593][388]LogUObjectHash: Warning: Ambiguous path search, could be Image /Engine/Transient.World_23:Armor_Slot_C_8.WidgetTree.Armor_Image or Image /Engine/Transient.Armor_Slot_C_33:WidgetTree.Armor_Image
+[2021.08.20-05.32.46:593][388]LogUObjectHash: Warning: Ambiguous path search, could be Image /Engine/Transient.World_23:Armor_Slot_C_8.WidgetTree.Armor_Image or Image /Engine/Transient.Armor_Slot_C_34:WidgetTree.Armor_Image
+[2021.08.20-05.32.46:593][388]LogUObjectHash: Warning: Ambiguous path search, could be Image /Engine/Transient.World_23:Armor_Slot_C_8.WidgetTree.Armor_Image or Image /Engine/Transient.Armor_Slot_C_35:WidgetTree.Armor_Image
+[2021.08.20-05.32.46:593][388]LogUObjectHash: Warning: Ambiguous path search, could be Image /Engine/Transient.World_23:Armor_Slot_C_8.WidgetTree.Armor_Image or Image /Engine/Transient.Armor_Slot_C_36:WidgetTree.Armor_Image
+[2021.08.20-05.32.46:593][388]LogUObjectHash: Warning: Ambiguous path search, could be Image /Engine/Transient.World_23:Armor_Slot_C_8.WidgetTree.Armor_Image or Image /Engine/Transient.Armor_Slot_C_37:WidgetTree.Armor_Image
+[2021.08.20-05.32.46:593][388]LogUObjectHash: Warning: Ambiguous path search, could be Image /Engine/Transient.World_23:Armor_Slot_C_8.WidgetTree.Armor_Image or Image /Engine/Transient.Armor_Slot_C_38:WidgetTree.Armor_Image
+[2021.08.20-05.32.46:593][388]LogUObjectHash: Warning: Ambiguous path search, could be Image /Engine/Transient.World_23:Armor_Slot_C_8.WidgetTree.Armor_Image or Image /Engine/Transient.Armor_Slot_C_39:WidgetTree.Armor_Image
+[2021.08.20-05.32.46:593][388]LogUObjectHash: Warning: Ambiguous path search, could be Image /Engine/Transient.World_23:Armor_Slot_C_8.WidgetTree.Armor_Image or Image /Engine/Transient.Armor_Slot_C_40:WidgetTree.Armor_Image
+[2021.08.20-05.32.46:593][388]LogUObjectHash: Warning: Ambiguous path search, could be Image /Engine/Transient.World_23:Armor_Slot_C_8.WidgetTree.Armor_Image or Image /Engine/Transient.Armor_Slot_C_41:WidgetTree.Armor_Image
+[2021.08.20-05.32.46:593][388]LogUObjectHash: Warning: Ambiguous path search, could be Image /Engine/Transient.World_23:Armor_Slot_C_8.WidgetTree.Armor_Image or Image /Engine/Transient.Armor_Slot_C_42:WidgetTree.Armor_Image
+[2021.08.20-05.32.46:593][388]LogUObjectHash: Warning: Ambiguous path search, could be Image /Engine/Transient.World_23:Armor_Slot_C_8.WidgetTree.Armor_Image or Image /Engine/Transient.Armor_Slot_C_43:WidgetTree.Armor_Image
+[2021.08.20-05.32.46:593][388]LogUObjectHash: Warning: Ambiguous path search, could be Image /Engine/Transient.World_23:Armor_Slot_C_8.WidgetTree.Armor_Image or Image /Engine/Transient.Armor_Slot_C_44:WidgetTree.Armor_Image
+[2021.08.20-05.32.46:593][388]LogUObjectHash: Warning: Ambiguous path search, could be Image /Engine/Transient.World_23:Armor_Slot_C_8.WidgetTree.Armor_Image or Image /Engine/Transient.Armor_Slot_C_45:WidgetTree.Armor_Image
+[2021.08.20-05.32.46:593][388]LogUObjectHash: Warning: Ambiguous path search, could be Image /Engine/Transient.World_23:Armor_Slot_C_8.WidgetTree.Armor_Image or Image /Engine/Transient.Armor_Slot_C_46:WidgetTree.Armor_Image
+[2021.08.20-05.32.46:593][388]LogUObjectHash: Warning: Ambiguous path search, could be Image /Engine/Transient.World_23:Armor_Slot_C_8.WidgetTree.Armor_Image or Image /Engine/Transient.Armor_Slot_C_47:WidgetTree.Armor_Image
+[2021.08.20-05.32.46:593][388]LogUObjectHash: Warning: Ambiguous path search, could be Image /Engine/Transient.World_23:Armor_Slot_C_8.WidgetTree.Armor_Image or Image /Engine/Transient.Armor_Slot_C_48:WidgetTree.Armor_Image
+[2021.08.20-05.32.46:593][388]LogUObjectHash: Warning: Ambiguous path search, could be Image /Engine/Transient.World_23:Armor_Slot_C_8.WidgetTree.Armor_Image or Image /Engine/Transient.Armor_Slot_C_49:WidgetTree.Armor_Image
+[2021.08.20-05.32.46:593][388]LogUObjectHash: Warning: Ambiguous path search, could be Image /Engine/Transient.World_23:Armor_Slot_C_8.WidgetTree.Armor_Image or Image /Engine/Transient.Armor_Slot_C_50:WidgetTree.Armor_Image
+[2021.08.20-05.32.46:593][388]LogUObjectHash: Warning: Ambiguous path search, could be Image /Engine/Transient.World_23:Armor_Slot_C_8.WidgetTree.Armor_Image or Image /Engine/Transient.Armor_Slot_C_51:WidgetTree.Armor_Image
+[2021.08.20-05.32.46:593][388]LogUObjectHash: Warning: Ambiguous path search, could be Image /Engine/Transient.World_23:Armor_Slot_C_8.WidgetTree.Armor_Image or Image /Engine/Transient.Armor_Slot_C_52:WidgetTree.Armor_Image
+[2021.08.20-05.32.46:593][388]LogUObjectHash: Warning: Ambiguous path search, could be Image /Engine/Transient.World_23:Armor_Slot_C_8.WidgetTree.Armor_Image or Image /Engine/Transient.Armor_Slot_C_53:WidgetTree.Armor_Image
+[2021.08.20-05.32.46:593][388]LogUObjectHash: Warning: Ambiguous path search, could be Image /Engine/Transient.World_23:Armor_Slot_C_8.WidgetTree.Armor_Image or Image /Engine/Transient.Armor_Slot_C_54:WidgetTree.Armor_Image
+[2021.08.20-05.32.46:593][388]LogUObjectHash: Warning: Ambiguous path search, could be Image /Engine/Transient.World_23:Armor_Slot_C_8.WidgetTree.Armor_Image or Image /Engine/Transient.Armor_Slot_C_55:WidgetTree.Armor_Image
+[2021.08.20-05.32.46:593][388]LogUObjectHash: Warning: Ambiguous path search, could be Image /Engine/Transient.World_23:Armor_Slot_C_8.WidgetTree.Armor_Image or Image /Engine/Transient.Armor_Slot_C_56:WidgetTree.Armor_Image
+[2021.08.20-05.32.46:593][388]LogUObjectHash: Warning: Ambiguous path search, could be Image /Engine/Transient.World_23:Armor_Slot_C_8.WidgetTree.Armor_Image or Image /Engine/Transient.Armor_Slot_C_57:WidgetTree.Armor_Image
+[2021.08.20-05.32.46:593][388]LogUObjectHash: Warning: Ambiguous path search, could be Image /Engine/Transient.World_23:Armor_Slot_C_8.WidgetTree.Armor_Image or Image /Engine/Transient.Armor_Slot_C_58:WidgetTree.Armor_Image
+[2021.08.20-05.32.46:593][388]LogUObjectHash: Warning: Ambiguous path search, could be Image /Engine/Transient.World_23:Armor_Slot_C_8.WidgetTree.Armor_Image or Image /Engine/Transient.Armor_Slot_C_59:WidgetTree.Armor_Image
+[2021.08.20-05.32.46:593][388]LogUObjectHash: Warning: Ambiguous path search, could be Image /Engine/Transient.World_23:Armor_Slot_C_8.WidgetTree.Armor_Image or Image /Engine/Transient.Armor_Slot_C_60:WidgetTree.Armor_Image
+[2021.08.20-05.32.46:593][388]LogUObjectHash: Warning: Ambiguous path search, could be Image /Engine/Transient.World_23:Armor_Slot_C_8.WidgetTree.Armor_Image or Image /Engine/Transient.Armor_Slot_C_61:WidgetTree.Armor_Image
+[2021.08.20-05.32.46:594][388]LogUObjectHash: Warning: Ambiguous path search, could be Image /Engine/Transient.World_23:Armor_Slot_C_8.WidgetTree.Armor_Image or Image /Engine/Transient.Armor_Slot_C_62:WidgetTree.Armor_Image
+[2021.08.20-05.32.46:594][388]LogUObjectHash: Warning: Ambiguous path search, could be Image /Engine/Transient.World_23:Armor_Slot_C_8.WidgetTree.Armor_Image or Image /Engine/Transient.Armor_Slot_C_63:WidgetTree.Armor_Image
+[2021.08.20-05.32.46:594][388]LogUObjectHash: Warning: Ambiguous path search, could be Image /Engine/Transient.World_23:Armor_Slot_C_8.WidgetTree.Armor_Image or Image /Engine/Transient.Armor_Slot_C_64:WidgetTree.Armor_Image
+[2021.08.20-05.32.46:594][388]LogUObjectHash: Warning: Ambiguous path search, could be Image /Engine/Transient.World_23:Armor_Slot_C_8.WidgetTree.Armor_Image or Image /Engine/Transient.Armor_Slot_C_65:WidgetTree.Armor_Image
+[2021.08.20-05.32.46:594][388]LogUObjectHash: Warning: Ambiguous path search, could be Image /Engine/Transient.World_23:Armor_Slot_C_8.WidgetTree.Armor_Image or Image /Engine/Transient.Armor_Slot_C_66:WidgetTree.Armor_Image
+[2021.08.20-05.32.46:594][388]LogUObjectHash: Warning: Ambiguous path search, could be Image /Engine/Transient.World_23:Armor_Slot_C_8.WidgetTree.Armor_Image or Image /Engine/Transient.Armor_Slot_C_67:WidgetTree.Armor_Image
+[2021.08.20-05.32.46:594][388]LogUObjectHash: Warning: Ambiguous path search, could be Image /Engine/Transient.World_23:Armor_Slot_C_8.WidgetTree.Armor_Image or Image /Engine/Transient.Armor_Slot_C_68:WidgetTree.Armor_Image
+[2021.08.20-05.32.46:594][388]LogUObjectHash: Warning: Ambiguous path search, could be Image /Engine/Transient.World_23:Armor_Slot_C_8.WidgetTree.Armor_Image or Image /Engine/Transient.Armor_Slot_C_69:WidgetTree.Armor_Image
+[2021.08.20-05.32.46:594][388]LogUObjectHash: Warning: Ambiguous path search, could be Image /Engine/Transient.World_23:Armor_Slot_C_8.WidgetTree.Armor_Image or Image /Engine/Transient.Armor_Slot_C_70:WidgetTree.Armor_Image
+[2021.08.20-05.32.46:594][388]LogUObjectHash: Warning: Ambiguous path search, could be Image /Engine/Transient.World_23:Armor_Slot_C_8.WidgetTree.Armor_Image or Image /Engine/Transient.Armor_Slot_C_71:WidgetTree.Armor_Image
+[2021.08.20-05.32.46:594][388]LogUObjectHash: Warning: Ambiguous path search, could be Image /Engine/Transient.World_23:Armor_Slot_C_8.WidgetTree.Armor_Image or Image /Engine/Transient.Armor_Slot_C_72:WidgetTree.Armor_Image
+[2021.08.20-05.32.46:594][388]LogUObjectHash: Warning: Ambiguous path search, could be Image /Engine/Transient.World_23:Armor_Slot_C_8.WidgetTree.Armor_Image or Image /Engine/Transient.Armor_Slot_C_73:WidgetTree.Armor_Image
+[2021.08.20-05.32.46:594][388]LogUObjectHash: Warning: Ambiguous path search, could be Image /Engine/Transient.World_23:Armor_Slot_C_8.WidgetTree.Armor_Image or Image /Engine/Transient.Armor_Slot_C_74:WidgetTree.Armor_Image
+[2021.08.20-05.32.46:594][388]LogUObjectHash: Warning: Ambiguous path search, could be Image /Engine/Transient.World_23:Armor_Slot_C_8.WidgetTree.Armor_Image or Image /Engine/Transient.Armor_Slot_C_75:WidgetTree.Armor_Image
+[2021.08.20-05.32.46:594][388]LogUObjectHash: Warning: Ambiguous path search, could be Image /Engine/Transient.World_23:Armor_Slot_C_8.WidgetTree.Armor_Image or Image /Game/Blueprints/Equipment_System/CharacterSheet.CharacterSheet:WidgetTree.Armor_Slot.WidgetTree.Armor_Image
+[2021.08.20-05.32.46:594][388]LogUObjectHash: Warning: Ambiguous path search, could be Image /Engine/Transient.World_23:Armor_Slot_C_8.WidgetTree.Armor_Image or Image /Engine/Transient.World_27:CharacterSheet_C_5.WidgetTree.Armor_Slot.WidgetTree.Armor_Image
+[2021.08.20-05.32.46:594][388]LogUObjectHash: Warning: Ambiguous path search, could be Image /Engine/Transient.World_23:Armor_Slot_C_8.WidgetTree.Armor_Image or Image /Engine/Transient.Armor_Slot_0:WidgetTree.Armor_Image
+[2021.08.20-05.32.46:594][388]LogProperty: Warning: Illegal TEXT reference to a private object in external package (Image /Engine/Transient.World_23:Armor_Slot_C_8.WidgetTree.Armor_Image) from referencer (Armor_Slot_C /Engine/UMG/Editor/Transient.Armor_Slot).  Import failed...
+[2021.08.20-05.32.46:594][388]LogProperty: Warning: ObjectProperty /Game/Blueprints/Equipment_System/Armor_Slot.Armor_Slot_C:Armor_Image: unresolved reference to 'Image'"WidgetTree.Armor_Image"''
+[2021.08.20-05.33.59:575][797]LogContentBrowser: Deferred new asset file creation: NewUserDefinedEnum
+[2021.08.20-05.33.59:596][797]LogContentBrowser: Creating deferred item: NewUserDefinedEnum
+[2021.08.20-05.34.05:317][889]LogContentBrowser: Attempting asset rename: NewUserDefinedEnum -> Weapon_Type
+[2021.08.20-05.34.05:318][889]LogContentBrowser: End creating deferred item NewUserDefinedEnum
+[2021.08.20-05.34.06:168][900]LogAssetEditorSubsystem: Opening Asset editor for UserDefinedEnum /Game/Blueprints/Equipment_System/Equipment_Data/Weapon_Type.Weapon_Type
+[2021.08.20-05.34.42:799][419]LogSavePackage: Moving '../../../../../../Ue_Wisp/IsoJack_v2/IsoJackUE4/IsoJackUE4/Saved/Weapon_TypeB34C90364A8E1428A42513AF91622B9D.tmp' to '../../../../../../Ue_Wisp/IsoJack_v2/IsoJackUE4/IsoJackUE4/Content/Blueprints/Equipment_System/Equipment_Data/Weapon_Type.uasset'
+[2021.08.20-05.34.42:821][419]AssetCheck: New page: Asset Save: Weapon_Type
+[2021.08.20-05.34.42:821][419]LogContentValidation: Display: Validating UserDefinedEnum /Game/Blueprints/Equipment_System/Equipment_Data/Weapon_Type.Weapon_Type
+[2021.08.20-05.34.45:427][453]BlueprintLog: New page: Compile CharacterSheet
+[2021.08.20-05.34.45:553][453]LogUObjectHash: Compacting FUObjectHashTables data took   6.00ms
+[2021.08.20-05.34.46:201][459]LogSavePackage: Moving '../../../../../../Ue_Wisp/IsoJack_v2/IsoJackUE4/IsoJackUE4/Saved/CharacterSheetA5599B104427869BA0498FAD6234BA53.tmp' to '../../../../../../Ue_Wisp/IsoJack_v2/IsoJackUE4/IsoJackUE4/Content/Blueprints/Equipment_System/CharacterSheet.uasset'
+[2021.08.20-05.34.46:217][459]AssetCheck: New page: Asset Save: CharacterSheet
+[2021.08.20-05.34.46:217][459]LogContentValidation: Display: Validating WidgetBlueprint /Game/Blueprints/Equipment_System/CharacterSheet.CharacterSheet
+[2021.08.20-05.35.06:181][988]LogContentBrowser: Deferred new asset file creation: NewUserDefinedStruct
+[2021.08.20-05.35.06:203][988]LogContentBrowser: Creating deferred item: NewUserDefinedStruct
+[2021.08.20-05.35.09:621][ 43]LogContentBrowser: Attempting asset rename: NewUserDefinedStruct -> Weapon_Data
+[2021.08.20-05.35.09:633][ 43]LogContentBrowser: End creating deferred item NewUserDefinedStruct
+[2021.08.20-05.35.10:382][ 53]LogAssetEditorSubsystem: Opening Asset editor for UserDefinedStruct /Game/Blueprints/Equipment_System/Equipment_Data/Weapon_Data.Weapon_Data
+[2021.08.20-05.36.04:741][373]LogSavePackage: Moving '../../../../../../Ue_Wisp/IsoJack_v2/IsoJackUE4/IsoJackUE4/Saved/Weapon_DataC8843884431ACA9884EC178E33206ECB.tmp' to '../../../../../../Ue_Wisp/IsoJack_v2/IsoJackUE4/IsoJackUE4/Content/Blueprints/Equipment_System/Equipment_Data/Weapon_Data.uasset'
+[2021.08.20-05.36.04:760][373]AssetCheck: New page: Asset Save: Weapon_Data
+[2021.08.20-05.36.04:760][373]LogContentValidation: Display: Validating UserDefinedStruct /Game/Blueprints/Equipment_System/Equipment_Data/Weapon_Data.Weapon_Data
+[2021.08.20-05.36.16:780][682]LogAssetEditorSubsystem: Opening Asset editor for UserDefinedEnum /Game/Blueprints/Equipment_System/Equipment_Data/Weapon_Type.Weapon_Type
+[2021.08.20-05.36.57:185][354]LogAssetEditorSubsystem: Opening Asset editor for UserDefinedEnum /Game/Blueprints/Equipment_System/Equipment_Data/Equipment_Tier.Equipment_Tier
+[2021.08.20-05.36.59:667][385]LogAssetEditorSubsystem: Opening Asset editor for UserDefinedStruct /Game/Blueprints/Equipment_System/Equipment_Data/Armor_Data.Armor_Data
+[2021.08.20-05.37.09:608][551]LogSavePackage: Moving '../../../../../../Ue_Wisp/IsoJack_v2/IsoJackUE4/IsoJackUE4/Saved/Weapon_Type36356D78427F1D479B964E87596A50F2.tmp' to '../../../../../../Ue_Wisp/IsoJack_v2/IsoJackUE4/IsoJackUE4/Content/Blueprints/Equipment_System/Equipment_Data/Weapon_Type.uasset'
+[2021.08.20-05.37.09:624][551]AssetCheck: New page: Asset Save: Weapon_Type
+[2021.08.20-05.37.09:624][551]LogContentValidation: Display: Validating UserDefinedEnum /Game/Blueprints/Equipment_System/Equipment_Data/Weapon_Type.Weapon_Type
+[2021.08.20-05.37.39:661][965]LogSavePackage: Moving '../../../../../../Ue_Wisp/IsoJack_v2/IsoJackUE4/IsoJackUE4/Saved/Weapon_Data118C4A8D4806512A8BBFD0B06979DFA0.tmp' to '../../../../../../Ue_Wisp/IsoJack_v2/IsoJackUE4/IsoJackUE4/Content/Blueprints/Equipment_System/Equipment_Data/Weapon_Data.uasset'
+[2021.08.20-05.37.39:679][965]AssetCheck: New page: Asset Save: Weapon_Data
+[2021.08.20-05.37.39:679][965]LogContentValidation: Display: Validating UserDefinedStruct /Game/Blueprints/Equipment_System/Equipment_Data/Weapon_Data.Weapon_Data
+[2021.08.20-05.37.41:683][993]LogSavePackage: Moving '../../../../../../Ue_Wisp/IsoJack_v2/IsoJackUE4/IsoJackUE4/Saved/Equipment_Tier5EF854F7489A61FBB1C20BBF13192ED8.tmp' to '../../../../../../Ue_Wisp/IsoJack_v2/IsoJackUE4/IsoJackUE4/Content/Blueprints/Equipment_System/Equipment_Data/Equipment_Tier.uasset'
+[2021.08.20-05.37.41:698][993]AssetCheck: New page: Asset Save: Equipment_Tier
+[2021.08.20-05.37.41:698][993]LogContentValidation: Display: Validating UserDefinedEnum /Game/Blueprints/Equipment_System/Equipment_Data/Equipment_Tier.Equipment_Tier
+[2021.08.20-05.37.43:348][ 16]LogSavePackage: Moving '../../../../../../Ue_Wisp/IsoJack_v2/IsoJackUE4/IsoJackUE4/Saved/Armor_Data0F477FFA4E11C922C2F28C90FD15335D.tmp' to '../../../../../../Ue_Wisp/IsoJack_v2/IsoJackUE4/IsoJackUE4/Content/Blueprints/Equipment_System/Equipment_Data/Armor_Data.uasset'
+[2021.08.20-05.37.43:363][ 16]AssetCheck: New page: Asset Save: Armor_Data
+[2021.08.20-05.37.43:363][ 16]LogContentValidation: Display: Validating UserDefinedStruct /Game/Blueprints/Equipment_System/Equipment_Data/Armor_Data.Armor_Data
+[2021.08.20-05.37.56:096][196]LogContentBrowser: Deferred new asset file creation: Armor_Slot1
+[2021.08.20-05.37.56:119][196]LogContentBrowser: Creating deferred item: Armor_Slot1
+[2021.08.20-05.38.01:344][273]LogContentBrowser: Attempting asset rename: Armor_Slot1 -> Weapon_Slot
+[2021.08.20-05.38.01:445][273]LogUObjectHash: Compacting FUObjectHashTables data took   5.35ms
+[2021.08.20-05.38.01:456][273]LogContentBrowser: End creating deferred item Armor_Slot1
+[2021.08.20-05.38.02:982][294]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Blueprints/Equipment_System/Weapon_Slot.Weapon_Slot
+[2021.08.20-05.38.36:980][572]LogUObjectHash: Compacting FUObjectHashTables data took   3.45ms
+[2021.08.20-05.38.38:153][572]LogSavePackage: Moving '../../../../../../Ue_Wisp/IsoJack_v2/IsoJackUE4/IsoJackUE4/Saved/Lv_IsoJack_Auto2040BF26E4F4BDC2EA0784EB87E46EE40.tmp' to '../../../../../../Ue_Wisp/IsoJack_v2/IsoJackUE4/IsoJackUE4/Saved/Autosaves/Game/Maps/Lv_IsoJack_Auto2.umap'
+[2021.08.20-05.38.38:155][572]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/Lv_IsoJack' took 1.219
+[2021.08.20-05.38.38:155][572]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 1.219
+[2021.08.20-05.38.38:156][572]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Equipment_System/Weapon_Slot] ([1] browsable assets)...
+[2021.08.20-05.38.38:156][572]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Equipment_System/Weapon_Slot]
+[2021.08.20-05.38.38:159][572]LogSavePackage: Moving '../../../../../../Ue_Wisp/IsoJack_v2/IsoJackUE4/IsoJackUE4/Saved/Weapon_Slot_Auto24D2EE70D4DEECC17362427A08E2AF7AB.tmp' to '../../../../../../Ue_Wisp/IsoJack_v2/IsoJackUE4/IsoJackUE4/Saved/Autosaves/Game/Blueprints/Equipment_System/Weapon_Slot_Auto2.uasset'
+[2021.08.20-05.38.38:160][572]LogFileHelpers: Auto-saving content packages took 0.004
+[2021.08.20-05.39.05:355][654]LogSavePackage: Moving '../../../../../../Ue_Wisp/IsoJack_v2/IsoJackUE4/IsoJackUE4/Saved/Weapon_Slot25413789459F867C1AC3968C63ED3A53.tmp' to '../../../../../../Ue_Wisp/IsoJack_v2/IsoJackUE4/IsoJackUE4/Content/Blueprints/Equipment_System/Weapon_Slot.uasset'
+[2021.08.20-05.39.05:371][654]AssetCheck: New page: Asset Save: Weapon_Slot
+[2021.08.20-05.39.05:371][654]LogContentValidation: Display: Validating WidgetBlueprint /Game/Blueprints/Equipment_System/Weapon_Slot.Weapon_Slot
+[2021.08.20-05.40.56:274][360]BlueprintLog: New page: Compile CharacterSheet
+[2021.08.20-05.40.56:397][360]LogUObjectHash: Compacting FUObjectHashTables data took   4.58ms
+[2021.08.20-05.40.57:052][371]LogSavePackage: Moving '../../../../../../Ue_Wisp/IsoJack_v2/IsoJackUE4/IsoJackUE4/Saved/CharacterSheetC143CA7647504B0318F3F6BF5BF6BB22.tmp' to '../../../../../../Ue_Wisp/IsoJack_v2/IsoJackUE4/IsoJackUE4/Content/Blueprints/Equipment_System/CharacterSheet.uasset'
+[2021.08.20-05.40.57:066][371]AssetCheck: New page: Asset Save: CharacterSheet
+[2021.08.20-05.40.57:066][371]LogContentValidation: Display: Validating WidgetBlueprint /Game/Blueprints/Equipment_System/CharacterSheet.CharacterSheet
+[2021.08.20-05.41.28:714][813]LogUObjectHash: Warning: Ambiguous path search, could be Class /Script/UMG.WidgetTree or WidgetTree /Script/UnrealEd.Default__BaseWidgetBlueprint:WidgetTree
+[2021.08.20-05.41.28:714][813]LogUObjectHash: Warning: Ambiguous path search, could be Class /Script/UMG.WidgetTree or WidgetTree /Script/UMGEditor.Default__WidgetBlueprint:WidgetTree
+[2021.08.20-05.41.28:714][813]LogUObjectHash: Warning: Ambiguous path search, could be Class /Script/UMG.WidgetTree or WidgetTree /Script/Blutility.Default__EditorUtilityWidgetBlueprint:WidgetTree
+[2021.08.20-05.41.28:714][813]LogUObjectHash: Warning: Ambiguous path search, could be Class /Script/UMG.WidgetTree or WidgetTree /Game/Blueprints/Quest_System/Quest_UI/Objective_Widget.Objective_Widget:WidgetTree
+[2021.08.20-05.41.28:714][813]LogUObjectHash: Warning: Ambiguous path search, could be Class /Script/UMG.WidgetTree or WidgetTree /Game/UX/Wgt_Player_UI.Wgt_Player_UI_C:WidgetTree
+[2021.08.20-05.41.28:714][813]LogUObjectHash: Warning: Ambiguous path search, could be Class /Script/UMG.WidgetTree or WidgetTree /Game/Blueprints/Quest_System/Quest_UI/Quest_Widget_UI.Quest_Widget_UI:WidgetTree
+[2021.08.20-05.41.28:714][813]LogUObjectHash: Warning: Ambiguous path search, could be Class /Script/UMG.WidgetTree or WidgetTree /Game/UX/Wgt_PauseMenu.Wgt_PauseMenu_C:WidgetTree
+[2021.08.20-05.41.28:714][813]LogUObjectHash: Warning: Ambiguous path search, could be Class /Script/UMG.WidgetTree or WidgetTree /Game/Blueprints/Equipment_System/CharacterSheet.CharacterSheet:WidgetTree
+[2021.08.20-05.41.28:714][813]LogUObjectHash: Warning: Ambiguous path search, could be Class /Script/UMG.WidgetTree or WidgetTree /Game/UX/Wgt_Trader.Wgt_Trader_C:WidgetTree
+[2021.08.20-05.41.28:714][813]LogUObjectHash: Warning: Ambiguous path search, could be Class /Script/UMG.WidgetTree or WidgetTree /Game/UX/Wgt_PauseMenu.Wgt_PauseMenu:WidgetTree
+[2021.08.20-05.41.28:714][813]LogUObjectHash: Warning: Ambiguous path search, could be Class /Script/UMG.WidgetTree or WidgetTree /Game/Blueprints/Quest_System/Quest_UI/Quest_Widget_UI.Quest_Widget_UI_C:WidgetTree
+[2021.08.20-05.41.28:714][813]LogUObjectHash: Warning: Ambiguous path search, could be Class /Script/UMG.WidgetTree or WidgetTree /Game/UX/Wgt_Player_UI.Wgt_Player_UI:WidgetTree
+[2021.08.20-05.41.28:714][813]LogUObjectHash: Warning: Ambiguous path search, could be Class /Script/UMG.WidgetTree or WidgetTree /Game/Blueprints/Quest_System/Quest_UI/Objective_Widget.Objective_Widget_C:WidgetTree
+[2021.08.20-05.41.28:714][813]LogUObjectHash: Warning: Ambiguous path search, could be Class /Script/UMG.WidgetTree or WidgetTree /Game/UX/Wgt_Trader.Wgt_Trader:WidgetTree
+[2021.08.20-05.41.28:714][813]LogUObjectHash: Warning: Ambiguous path search, could be Class /Script/UMG.WidgetTree or WidgetTree /Game/Blueprints/Equipment_System/CharacterSheet.CharacterSheet_C:WidgetTree
+[2021.08.20-05.41.28:714][813]LogUObjectHash: Warning: Ambiguous path search, could be Class /Script/UMG.WidgetTree or WidgetTree /Game/UX/Wgt_MainMenu.Wgt_MainMenu:WidgetTree
+[2021.08.20-05.41.28:714][813]LogUObjectHash: Warning: Ambiguous path search, could be Class /Script/UMG.WidgetTree or WidgetTree /Game/UX/Wgt_MainMenu.Wgt_MainMenu_C:WidgetTree
+[2021.08.20-05.41.28:714][813]LogUObjectHash: Warning: Ambiguous path search, could be Class /Script/UMG.WidgetTree or WidgetTree /Game/Blueprints/Equipment_System/CharacterSheet.CharacterSheet:WidgetTree.MHSlot.WidgetTree
+[2021.08.20-05.41.28:714][813]LogUObjectHash: Warning: Ambiguous path search, could be Class /Script/UMG.WidgetTree or WidgetTree /Engine/Transient.World_27:CharacterSheet_C_17.WidgetTree
+[2021.08.20-05.41.28:714][813]LogUObjectHash: Warning: Ambiguous path search, could be Class /Script/UMG.WidgetTree or WidgetTree /Engine/Transient.World_23:Armor_Slot_C_5.WidgetTree
+[2021.08.20-05.41.28:714][813]LogUObjectHash: Warning: Ambiguous path search, could be Class /Script/UMG.WidgetTree or WidgetTree /Engine/Transient.REINST_Armor_Slot_C_42:WidgetTree
+[2021.08.20-05.41.28:714][813]LogUObjectHash: Warning: Ambiguous path search, could be Class /Script/UMG.WidgetTree or WidgetTree /Game/Blueprints/Equipment_System/Armor_Slot.Armor_Slot:WidgetTree
+[2021.08.20-05.41.28:714][813]LogUObjectHash: Warning: Ambiguous path search, could be Class /Script/UMG.WidgetTree or WidgetTree /Game/Blueprints/Equipment_System/Armor_Slot.Armor_Slot_C:WidgetTree
+[2021.08.20-05.41.28:714][813]LogUObjectHash: Warning: Ambiguous path search, could be Class /Script/UMG.WidgetTree or WidgetTree /Engine/Transient.World_23:Armor_Slot_C_4.WidgetTree
+[2021.08.20-05.41.28:714][813]LogUObjectHash: Warning: Ambiguous path search, could be Class /Script/UMG.WidgetTree or WidgetTree /Engine/Transient.World_23:Armor_Slot_C_3.WidgetTree
+[2021.08.20-05.41.28:714][813]LogUObjectHash: Warning: Ambiguous path search, could be Class /Script/UMG.WidgetTree or WidgetTree /Engine/Transient.World_23:Armor_Slot_C_2.WidgetTree
+[2021.08.20-05.41.28:714][813]LogUObjectHash: Warning: Ambiguous path search, could be Class /Script/UMG.WidgetTree or WidgetTree /Engine/Transient.REINST_Armor_Slot_C_46:WidgetTree
+[2021.08.20-05.41.28:714][813]LogUObjectHash: Warning: Ambiguous path search, could be Class /Script/UMG.WidgetTree or WidgetTree /Engine/Transient.World_23:Armor_Slot_C_9.WidgetTree
+[2021.08.20-05.41.28:714][813]LogUObjectHash: Warning: Ambiguous path search, could be Class /Script/UMG.WidgetTree or WidgetTree /Engine/Transient.World_23:Armor_Slot_C_8.WidgetTree
+[2021.08.20-05.41.28:714][813]LogUObjectHash: Warning: Ambiguous path search, could be Class /Script/UMG.WidgetTree or WidgetTree /Engine/Transient.REINST_CharacterSheet_C_63:WidgetTree
+[2021.08.20-05.41.28:714][813]LogUObjectHash: Warning: Ambiguous path search, could be Class /Script/UMG.WidgetTree or WidgetTree /Engine/Transient.World_23:Armor_Slot_C_11.WidgetTree
+[2021.08.20-05.41.28:714][813]LogUObjectHash: Warning: Ambiguous path search, could be Class /Script/UMG.WidgetTree or WidgetTree /Engine/Transient.World_27:CharacterSheet_C_18.WidgetTree.BootsSlot.WidgetTree
+[2021.08.20-05.41.28:714][813]LogUObjectHash: Warning: Ambiguous path search, could be Class /Script/UMG.WidgetTree or WidgetTree /Game/Blueprints/Equipment_System/Weapon_Slot.Weapon_Slot_C:WidgetTree
+[2021.08.20-05.41.28:714][813]LogUObjectHash: Warning: Ambiguous path search, could be Class /Script/UMG.WidgetTree or WidgetTree /Engine/Transient.World_27:CharacterSheet_C_18.WidgetTree.GloveSlot.WidgetTree
+[2021.08.20-05.41.28:714][813]LogUObjectHash: Warning: Ambiguous path search, could be Class /Script/UMG.WidgetTree or WidgetTree /Engine/Transient.World_27:CharacterSheet_C_18.WidgetTree.LegSlot.WidgetTree
+[2021.08.20-05.41.28:714][813]LogUObjectHash: Warning: Ambiguous path search, could be Class /Script/UMG.WidgetTree or WidgetTree /Engine/Transient.World_27:CharacterSheet_C_18.WidgetTree.BodySlot.WidgetTree
+[2021.08.20-05.41.28:714][813]LogUObjectHash: Warning: Ambiguous path search, could be Class /Script/UMG.WidgetTree or WidgetTree /Engine/Transient.World_27:CharacterSheet_C_10.WidgetTree.Armor_Slot_3.WidgetTree
+[2021.08.20-05.41.28:714][813]LogUObjectHash: Warning: Ambiguous path search, could be Class /Script/UMG.WidgetTree or WidgetTree /Engine/Transient.World_27:CharacterSheet_C_10.WidgetTree.Armor_Slot_2.WidgetTree
+[2021.08.20-05.41.28:714][813]LogUObjectHash: Warning: Ambiguous path search, could be Class /Script/UMG.WidgetTree or WidgetTree /Engine/Transient.World_27:CharacterSheet_C_4.WidgetTree
+[2021.08.20-05.41.28:714][813]LogUObjectHash: Warning: Ambiguous path search, could be Class /Script/UMG.WidgetTree or WidgetTree /Engine/Transient.World_27:CharacterSheet_C_18.WidgetTree.HeadSlot.WidgetTree
+[2021.08.20-05.41.28:714][813]LogUObjectHash: Warning: Ambiguous path search, could be Class /Script/UMG.WidgetTree or WidgetTree /Engine/Transient.World_27:CharacterSheet_C_18.WidgetTree
+[2021.08.20-05.41.28:714][813]LogUObjectHash: Warning: Ambiguous path search, could be Class /Script/UMG.WidgetTree or WidgetTree /Engine/Transient.World_27:CharacterSheet_C_17.WidgetTree.BootsSlot.WidgetTree
+[2021.08.20-05.41.28:714][813]LogUObjectHash: Warning: Ambiguous path search, could be Class /Script/UMG.WidgetTree or WidgetTree /Engine/Transient.World_27:CharacterSheet_C_17.WidgetTree.GloveSlot.WidgetTree
+[2021.08.20-05.41.28:714][813]LogUObjectHash: Warning: Ambiguous path search, could be Class /Script/UMG.WidgetTree or WidgetTree /Engine/Transient.World_27:CharacterSheet_C_17.WidgetTree.LegSlot.WidgetTree
+[2021.08.20-05.41.28:714][813]LogUObjectHash: Warning: Ambiguous path search, could be Class /Script/UMG.WidgetTree or WidgetTree /Engine/Transient.World_27:CharacterSheet_C_17.WidgetTree.BodySlot.WidgetTree
+[2021.08.20-05.41.28:714][813]LogUObjectHash: Warning: Ambiguous path search, could be Class /Script/UMG.WidgetTree or WidgetTree /Engine/Transient.World_27:CharacterSheet_C_17.WidgetTree.HeadSlot.WidgetTree
+[2021.08.20-05.41.28:714][813]LogUObjectHash: Warning: Ambiguous path search, could be Class /Script/UMG.WidgetTree or WidgetTree /Engine/Transient.World_27:CharacterSheet_C_16.WidgetTree.Armor_Slot_4.WidgetTree
+[2021.08.20-05.41.28:714][813]LogUObjectHash: Warning: Ambiguous path search, could be Class /Script/UMG.WidgetTree or WidgetTree /Engine/Transient.World_27:CharacterSheet_C_16.WidgetTree.GloveSlot.WidgetTree
+[2021.08.20-05.41.28:714][813]LogUObjectHash: Warning: Ambiguous path search, could be Class /Script/UMG.WidgetTree or WidgetTree /Engine/Transient.World_27:CharacterSheet_C_16.WidgetTree.LegSlot.WidgetTree
+[2021.08.20-05.41.28:715][813]LogUObjectHash: Warning: Ambiguous path search, could be Class /Script/UMG.WidgetTree or WidgetTree /Engine/Transient.World_27:CharacterSheet_C_16.WidgetTree.BodySlot.WidgetTree
+[2021.08.20-05.41.28:715][813]LogUObjectHash: Warning: Ambiguous path search, could be Class /Script/UMG.WidgetTree or WidgetTree /Engine/Transient.World_27:CharacterSheet_C_16.WidgetTree.HeadSlot.WidgetTree
+[2021.08.20-05.41.28:715][813]LogUObjectHash: Warning: Ambiguous path search, could be Class /Script/UMG.WidgetTree or WidgetTree /Engine/Transient.World_27:CharacterSheet_C_16.WidgetTree
+[2021.08.20-05.41.28:715][813]LogUObjectHash: Warning: Ambiguous path search, could be Class /Script/UMG.WidgetTree or WidgetTree /Engine/Transient.World_27:CharacterSheet_C_15.WidgetTree.Armor_Slot_4.WidgetTree
+[2021.08.20-05.41.28:715][813]LogUObjectHash: Warning: Ambiguous path search, could be Class /Script/UMG.WidgetTree or WidgetTree /Engine/Transient.World_27:CharacterSheet_C_15.WidgetTree.Armor_Slot_3.WidgetTree
+[2021.08.20-05.41.28:715][813]LogUObjectHash: Warning: Ambiguous path search, could be Class /Script/UMG.WidgetTree or WidgetTree /Engine/Transient.World_27:CharacterSheet_C_15.WidgetTree.LegSlot.WidgetTree
+[2021.08.20-05.41.28:715][813]LogUObjectHash: Warning: Ambiguous path search, could be Class /Script/UMG.WidgetTree or WidgetTree /Engine/Transient.World_27:CharacterSheet_C_15.WidgetTree.BodySlot.WidgetTree
+[2021.08.20-05.41.28:715][813]LogUObjectHash: Warning: Ambiguous path search, could be Class /Script/UMG.WidgetTree or WidgetTree /Engine/Transient.World_27:CharacterSheet_C_15.WidgetTree.HeadSlot.WidgetTree
+[2021.08.20-05.41.28:715][813]LogUObjectHash: Warning: Ambiguous path search, could be Class /Script/UMG.WidgetTree or WidgetTree /Engine/Transient.World_27:CharacterSheet_C_15.WidgetTree
+[2021.08.20-05.41.28:715][813]LogUObjectHash: Warning: Ambiguous path search, could be Class /Script/UMG.WidgetTree or WidgetTree /Engine/Transient.World_27:CharacterSheet_C_14.WidgetTree.Armor_Slot_4.WidgetTree
+[2021.08.20-05.41.28:715][813]LogUObjectHash: Warning: Ambiguous path search, could be Class /Script/UMG.WidgetTree or WidgetTree /Engine/Transient.World_27:CharacterSheet_C_14.WidgetTree.Armor_Slot_3.WidgetTree
+[2021.08.20-05.41.28:715][813]LogUObjectHash: Warning: Ambiguous path search, could be Class /Script/UMG.WidgetTree or WidgetTree /Engine/Transient.World_27:CharacterSheet_C_14.WidgetTree.Armor_Slot_2.WidgetTree
+[2021.08.20-05.41.28:715][813]LogUObjectHash: Warning: Ambiguous path search, could be Class /Script/UMG.WidgetTree or WidgetTree /Engine/Transient.World_27:CharacterSheet_C_14.WidgetTree.BodySlot.WidgetTree
+[2021.08.20-05.41.28:715][813]LogUObjectHash: Warning: Ambiguous path search, could be Class /Script/UMG.WidgetTree or WidgetTree /Engine/Transient.World_27:CharacterSheet_C_14.WidgetTree.HeadSlot.WidgetTree
+[2021.08.20-05.41.28:715][813]LogUObjectHash: Warning: Ambiguous path search, could be Class /Script/UMG.WidgetTree or WidgetTree /Engine/Transient.World_27:CharacterSheet_C_14.WidgetTree
+[2021.08.20-05.41.28:715][813]LogUObjectHash: Warning: Ambiguous path search, could be Class /Script/UMG.WidgetTree or WidgetTree /Engine/Transient.World_27:CharacterSheet_C_13.WidgetTree.Armor_Slot_4.WidgetTree
+[2021.08.20-05.41.28:715][813]LogUObjectHash: Warning: Ambiguous path search, could be Class /Script/UMG.WidgetTree or WidgetTree /Engine/Transient.World_27:CharacterSheet_C_13.WidgetTree.Armor_Slot_3.WidgetTree
+[2021.08.20-05.41.28:715][813]LogUObjectHash: Warning: Ambiguous path search, could be Class /Script/UMG.WidgetTree or WidgetTree /Engine/Transient.World_27:CharacterSheet_C_13.WidgetTree.Armor_Slot_2.WidgetTree
+[2021.08.20-05.41.28:715][813]LogUObjectHash: Warning: Ambiguous path search, could be Class /Script/UMG.WidgetTree or WidgetTree /Engine/Transient.World_27:CharacterSheet_C_13.WidgetTree.Armor_Slot_1.WidgetTree
+[2021.08.20-05.41.28:715][813]LogUObjectHash: Warning: Ambiguous path search, could be Class /Script/UMG.WidgetTree or WidgetTree /Engine/Transient.World_27:CharacterSheet_C_13.WidgetTree.HeadSlot.WidgetTree
+[2021.08.20-05.41.28:715][813]LogUObjectHash: Warning: Ambiguous path search, could be Class /Script/UMG.WidgetTree or WidgetTree /Engine/Transient.World_27:CharacterSheet_C_13.WidgetTree
+[2021.08.20-05.41.28:715][813]LogUObjectHash: Warning: Ambiguous path search, could be Class /Script/UMG.WidgetTree or WidgetTree /Engine/Transient.World_27:CharacterSheet_C_12.WidgetTree.Armor_Slot_4.WidgetTree
+[2021.08.20-05.41.28:715][813]LogUObjectHash: Warning: Ambiguous path search, could be Class /Script/UMG.WidgetTree or WidgetTree /Engine/Transient.World_27:CharacterSheet_C_12.WidgetTree.Armor_Slot_3.WidgetTree
+[2021.08.20-05.41.28:715][813]LogUObjectHash: Warning: Ambiguous path search, could be Class /Script/UMG.WidgetTree or WidgetTree /Engine/Transient.World_27:CharacterSheet_C_12.WidgetTree.Armor_Slot_2.WidgetTree
+[2021.08.20-05.41.28:715][813]LogUObjectHash: Warning: Ambiguous path search, could be Class /Script/UMG.WidgetTree or WidgetTree /Engine/Transient.World_27:CharacterSheet_C_12.WidgetTree.Armor_Slot_1.WidgetTree
+[2021.08.20-05.41.28:715][813]LogUObjectHash: Warning: Ambiguous path search, could be Class /Script/UMG.WidgetTree or WidgetTree /Engine/Transient.World_27:CharacterSheet_C_12.WidgetTree.Armor_Slot.WidgetTree
+[2021.08.20-05.41.28:715][813]LogUObjectHash: Warning: Ambiguous path search, could be Class /Script/UMG.WidgetTree or WidgetTree /Engine/Transient.World_27:CharacterSheet_C_12.WidgetTree
+[2021.08.20-05.41.28:715][813]LogUObjectHash: Warning: Ambiguous path search, could be Class /Script/UMG.WidgetTree or WidgetTree /Engine/Transient.World_27:CharacterSheet_C_11.WidgetTree.Armor_Slot_3.WidgetTree
+[2021.08.20-05.41.28:715][813]LogUObjectHash: Warning: Ambiguous path search, could be Class /Script/UMG.WidgetTree or WidgetTree /Engine/Transient.World_27:CharacterSheet_C_11.WidgetTree.Armor_Slot_2.WidgetTree
+[2021.08.20-05.41.28:715][813]LogUObjectHash: Warning: Ambiguous path search, could be Class /Script/UMG.WidgetTree or WidgetTree /Engine/Transient.World_27:CharacterSheet_C_11.WidgetTree.Armor_Slot_1.WidgetTree
+[2021.08.20-05.41.28:715][813]LogUObjectHash: Warning: Ambiguous path search, could be Class /Script/UMG.WidgetTree or WidgetTree /Engine/Transient.World_27:CharacterSheet_C_11.WidgetTree.Armor_Slot.WidgetTree
+[2021.08.20-05.41.28:715][813]LogUObjectHash: Warning: Ambiguous path search, could be Class /Script/UMG.WidgetTree or WidgetTree /Engine/Transient.World_27:CharacterSheet_C_11.WidgetTree
+[2021.08.20-05.41.28:715][813]LogUObjectHash: Warning: Ambiguous path search, could be Class /Script/UMG.WidgetTree or WidgetTree /Engine/Transient.World_27:CharacterSheet_C_10.WidgetTree.Armor_Slot_1.WidgetTree
+[2021.08.20-05.41.28:715][813]LogUObjectHash: Warning: Ambiguous path search, could be Class /Script/UMG.WidgetTree or WidgetTree /Engine/Transient.World_27:CharacterSheet_C_10.WidgetTree.Armor_Slot.WidgetTree
+[2021.08.20-05.41.28:715][813]LogUObjectHash: Warning: Ambiguous path search, could be Class /Script/UMG.WidgetTree or WidgetTree /Engine/Transient.World_27:CharacterSheet_C_10.WidgetTree
+[2021.08.20-05.41.28:715][813]LogUObjectHash: Warning: Ambiguous path search, could be Class /Script/UMG.WidgetTree or WidgetTree /Engine/Transient.World_27:CharacterSheet_C_9.WidgetTree.Armor_Slot_2.WidgetTree
+[2021.08.20-05.41.28:715][813]LogUObjectHash: Warning: Ambiguous path search, could be Class /Script/UMG.WidgetTree or WidgetTree /Engine/Transient.World_27:CharacterSheet_C_9.WidgetTree.Armor_Slot_1.WidgetTree
+[2021.08.20-05.41.28:715][813]LogUObjectHash: Warning: Ambiguous path search, could be Class /Script/UMG.WidgetTree or WidgetTree /Engine/Transient.World_27:CharacterSheet_C_9.WidgetTree.Armor_Slot.WidgetTree
+[2021.08.20-05.41.28:715][813]LogUObjectHash: Warning: Ambiguous path search, could be Class /Script/UMG.WidgetTree or WidgetTree /Engine/Transient.World_27:CharacterSheet_C_9.WidgetTree
+[2021.08.20-05.41.28:715][813]LogUObjectHash: Warning: Ambiguous path search, could be Class /Script/UMG.WidgetTree or WidgetTree /Engine/Transient.World_27:CharacterSheet_C_8.WidgetTree.Armor_Slot_2.WidgetTree
+[2021.08.20-05.41.28:715][813]LogUObjectHash: Warning: Ambiguous path search, could be Class /Script/UMG.WidgetTree or WidgetTree /Engine/Transient.World_27:CharacterSheet_C_8.WidgetTree.Armor_Slot_1.WidgetTree
+[2021.08.20-05.41.28:715][813]LogUObjectHash: Warning: Ambiguous path search, could be Class /Script/UMG.WidgetTree or WidgetTree /Engine/Transient.World_27:CharacterSheet_C_8.WidgetTree.Armor_Slot.WidgetTree
+[2021.08.20-05.41.28:715][813]LogUObjectHash: Warning: Ambiguous path search, could be Class /Script/UMG.WidgetTree or WidgetTree /Engine/Transient.World_27:CharacterSheet_C_8.WidgetTree
+[2021.08.20-05.41.28:715][813]LogUObjectHash: Warning: Ambiguous path search, could be Class /Script/UMG.WidgetTree or WidgetTree /Engine/Transient.World_27:CharacterSheet_C_7.WidgetTree.Armor_Slot_1.WidgetTree
+[2021.08.20-05.41.28:715][813]LogUObjectHash: Warning: Ambiguous path search, could be Class /Script/UMG.WidgetTree or WidgetTree /Engine/Transient.World_27:CharacterSheet_C_7.WidgetTree.Armor_Slot.WidgetTree
+[2021.08.20-05.41.28:715][813]LogUObjectHash: Warning: Ambiguous path search, could be Class /Script/UMG.WidgetTree or WidgetTree /Engine/Transient.World_27:CharacterSheet_C_7.WidgetTree
+[2021.08.20-05.41.28:715][813]LogUObjectHash: Warning: Ambiguous path search, could be Class /Script/UMG.WidgetTree or WidgetTree /Engine/Transient.World_27:CharacterSheet_C_6.WidgetTree.Armor_Slot_1.WidgetTree
+[2021.08.20-05.41.28:715][813]LogUObjectHash: Warning: Ambiguous path search, could be Class /Script/UMG.WidgetTree or WidgetTree /Engine/Transient.World_27:CharacterSheet_C_6.WidgetTree.Armor_Slot.WidgetTree
+[2021.08.20-05.41.28:715][813]LogUObjectHash: Warning: Ambiguous path search, could be Class /Script/UMG.WidgetTree or WidgetTree /Engine/Transient.World_27:CharacterSheet_C_6.WidgetTree
+[2021.08.20-05.41.28:715][813]LogUObjectHash: Warning: Ambiguous path search, could be Class /Script/UMG.WidgetTree or WidgetTree /Engine/Transient.World_27:CharacterSheet_C_5.WidgetTree.Armor_Slot.WidgetTree
+[2021.08.20-05.41.28:715][813]LogUObjectHash: Warning: Ambiguous path search, could be Class /Script/UMG.WidgetTree or WidgetTree /Engine/Transient.World_27:CharacterSheet_C_5.WidgetTree
+[2021.08.20-05.41.28:715][813]LogUObjectHash: Warning: Ambiguous path search, could be Class /Script/UMG.WidgetTree or WidgetTree /Game/Blueprints/Equipment_System/CharacterSheet.CharacterSheet:WidgetTree.HeadSlot.WidgetTree
+[2021.08.20-05.41.28:715][813]LogUObjectHash: Warning: Ambiguous path search, could be Class /Script/UMG.WidgetTree or WidgetTree /Game/Blueprints/Equipment_System/Weapon_Slot.Weapon_Slot:WidgetTree
+[2021.08.20-05.41.28:715][813]LogUObjectHash: Warning: Ambiguous path search, could be Class /Script/UMG.WidgetTree or WidgetTree /Engine/Transient.World_27:CharacterSheet_C_21.WidgetTree
+[2021.08.20-05.41.28:715][813]LogUObjectHash: Warning: Ambiguous path search, could be Class /Script/UMG.WidgetTree or WidgetTree /Engine/Transient.World_27:CharacterSheet_C_21.WidgetTree.HeadSlot.WidgetTree
+[2021.08.20-05.41.28:715][813]LogUObjectHash: Warning: Ambiguous path search, could be Class /Script/UMG.WidgetTree or WidgetTree /Engine/Transient.World_27:CharacterSheet_C_21.WidgetTree.Weapon_Slot.WidgetTree
+[2021.08.20-05.41.28:715][813]LogUObjectHash: Warning: Ambiguous path search, could be Class /Script/UMG.WidgetTree or WidgetTree /Engine/Transient.World_27:CharacterSheet_C_21.WidgetTree.BodySlot.WidgetTree
+[2021.08.20-05.41.28:715][813]LogUObjectHash: Warning: Ambiguous path search, could be Class /Script/UMG.WidgetTree or WidgetTree /Engine/Transient.World_27:CharacterSheet_C_21.WidgetTree.LegSlot.WidgetTree
+[2021.08.20-05.41.28:715][813]LogUObjectHash: Warning: Ambiguous path search, could be Class /Script/UMG.WidgetTree or WidgetTree /Engine/Transient.World_27:CharacterSheet_C_21.WidgetTree.GloveSlot.WidgetTree
+[2021.08.20-05.41.28:715][813]LogUObjectHash: Warning: Ambiguous path search, could be Class /Script/UMG.WidgetTree or WidgetTree /Engine/Transient.World_20:Wgt_Player_UI_C_12.WidgetTree
+[2021.08.20-05.41.28:715][813]LogUObjectHash: Warning: Ambiguous path search, could be Class /Script/UMG.WidgetTree or WidgetTree /Engine/Transient.World_27:CharacterSheet_C_22.WidgetTree.GloveSlot.WidgetTree
+[2021.08.20-05.41.28:715][813]LogUObjectHash: Warning: Ambiguous path search, could be Class /Script/UMG.WidgetTree or WidgetTree /Engine/Transient.World_27:CharacterSheet_C_22.WidgetTree.BootsSlot.WidgetTree
+[2021.08.20-05.41.28:715][813]LogUObjectHash: Warning: Ambiguous path search, could be Class /Script/UMG.WidgetTree or WidgetTree /Engine/Transient.REINST_CharacterSheet_C_73:WidgetTree
+[2021.08.20-05.41.28:715][813]LogUObjectHash: Warning: Ambiguous path search, could be Class /Script/UMG.WidgetTree or WidgetTree /Engine/Transient.REINST_CharacterSheet_C_73:WidgetTree.HeadSlot.WidgetTree
+[2021.08.20-05.41.28:715][813]LogUObjectHash: Warning: Ambiguous path search, could be Class /Script/UMG.WidgetTree or WidgetTree /Game/Blueprints/Equipment_System/CharacterSheet.CharacterSheet_C:WidgetTree.Weapon_Slot.WidgetTree
+[2021.08.20-05.41.28:715][813]LogUObjectHash: Warning: Ambiguous path search, could be Class /Script/UMG.WidgetTree or WidgetTree /Game/Blueprints/Equipment_System/CharacterSheet.CharacterSheet_C:WidgetTree.HeadSlot.WidgetTree
+[2021.08.20-05.41.28:715][813]LogUObjectHash: Warning: Ambiguous path search, could be Class /Script/UMG.WidgetTree or WidgetTree /Engine/Transient.World_30:Weapon_Slot_C_1.WidgetTree
+[2021.08.20-05.41.28:715][813]LogUObjectHash: Warning: Ambiguous path search, could be Class /Script/UMG.WidgetTree or WidgetTree /Engine/Transient.World_27:CharacterSheet_C_22.WidgetTree.LegSlot.WidgetTree
+[2021.08.20-05.41.28:715][813]LogUObjectHash: Warning: Ambiguous path search, could be Class /Script/UMG.WidgetTree or WidgetTree /Engine/Transient.World_27:CharacterSheet_C_22.WidgetTree.BodySlot.WidgetTree
+[2021.08.20-05.41.28:715][813]LogUObjectHash: Warning: Ambiguous path search, could be Class /Script/UMG.WidgetTree or WidgetTree /Engine/Transient.World_27:CharacterSheet_C_22.WidgetTree.Weapon_Slot.WidgetTree
+[2021.08.20-05.41.28:716][813]LogUObjectHash: Warning: Ambiguous path search, could be Class /Script/UMG.WidgetTree or WidgetTree /Engine/Transient.World_27:CharacterSheet_C_22.WidgetTree.HeadSlot.WidgetTree
+[2021.08.20-05.41.28:716][813]LogUObjectHash: Warning: Ambiguous path search, could be Class /Script/UMG.WidgetTree or WidgetTree /Engine/Transient.World_27:CharacterSheet_C_22.WidgetTree
+[2021.08.20-05.41.28:716][813]LogUObjectHash: Warning: Ambiguous path search, could be Class /Script/UMG.WidgetTree or WidgetTree /Engine/Transient.World_27:CharacterSheet_C_21.WidgetTree.BootsSlot.WidgetTree
+[2021.08.20-05.41.28:716][813]LogUObjectHash: Warning: Ambiguous path search, could be Class /Script/UMG.WidgetTree or WidgetTree /Engine/Transient.World_27:CharacterSheet_C_23.WidgetTree
+[2021.08.20-05.41.28:716][813]LogUObjectHash: Warning: Ambiguous path search, could be Class /Script/UMG.WidgetTree or WidgetTree /Engine/Transient.World_27:CharacterSheet_C_23.WidgetTree.HeadSlot.WidgetTree
+[2021.08.20-05.41.28:716][813]LogUObjectHash: Warning: Ambiguous path search, could be Class /Script/UMG.WidgetTree or WidgetTree /Engine/Transient.World_27:CharacterSheet_C_23.WidgetTree.Weapon_Slot.WidgetTree
+[2021.08.20-05.41.28:716][813]LogUObjectHash: Warning: Ambiguous path search, could be Class /Script/UMG.WidgetTree or WidgetTree /Engine/Transient.World_27:CharacterSheet_C_23.WidgetTree.BodySlot.WidgetTree
+[2021.08.20-05.41.28:716][813]LogUObjectHash: Warning: Ambiguous path search, could be Class /Script/UMG.WidgetTree or WidgetTree /Engine/Transient.World_27:CharacterSheet_C_23.WidgetTree.LegSlot.WidgetTree
+[2021.08.20-05.41.28:716][813]LogUObjectHash: Warning: Ambiguous path search, could be Class /Script/UMG.WidgetTree or WidgetTree /Engine/Transient.World_27:CharacterSheet_C_23.WidgetTree.GloveSlot.WidgetTree
+[2021.08.20-05.41.28:716][813]LogUObjectHash: Warning: Ambiguous path search, could be Class /Script/UMG.WidgetTree or WidgetTree /Engine/Transient.World_27:CharacterSheet_C_23.WidgetTree.BootsSlot.WidgetTree
+[2021.08.20-05.41.28:716][813]LogUObjectHash: Warning: Ambiguous path search, could be Class /Script/UMG.WidgetTree or WidgetTree /Engine/Transient.World_20:Wgt_Player_UI_C_13.WidgetTree
+[2021.08.20-05.41.28:716][813]LogUObjectHash: Warning: Ambiguous path search, could be Class /Script/UMG.WidgetTree or WidgetTree /Engine/Transient.World_20:Wgt_Player_UI_C_13.WidgetTree.CharacterSheet.WidgetTree
+[2021.08.20-05.41.28:716][813]LogUObjectHash: Warning: Ambiguous path search, could be Class /Script/UMG.WidgetTree or WidgetTree /Engine/Transient.World_20:Wgt_Player_UI_C_13.WidgetTree.CharacterSheet.WidgetTree.HeadSlot.WidgetTree
+[2021.08.20-05.41.28:716][813]LogUObjectHash: Warning: Ambiguous path search, could be Class /Script/UMG.WidgetTree or WidgetTree /Engine/Transient.World_20:Wgt_Player_UI_C_13.WidgetTree.CharacterSheet.WidgetTree.Weapon_Slot.WidgetTree
+[2021.08.20-05.41.28:716][813]LogUObjectHash: Warning: Ambiguous path search, could be Class /Script/UMG.WidgetTree or WidgetTree /Engine/Transient.World_20:Wgt_Player_UI_C_13.WidgetTree.CharacterSheet.WidgetTree.BodySlot.WidgetTree
+[2021.08.20-05.41.28:716][813]LogUObjectHash: Warning: Ambiguous path search, could be Class /Script/UMG.WidgetTree or WidgetTree /Engine/Transient.World_20:Wgt_Player_UI_C_13.WidgetTree.CharacterSheet.WidgetTree.LegSlot.WidgetTree
+[2021.08.20-05.41.28:716][813]LogUObjectHash: Warning: Ambiguous path search, could be Class /Script/UMG.WidgetTree or WidgetTree /Engine/Transient.World_20:Wgt_Player_UI_C_13.WidgetTree.CharacterSheet.WidgetTree.GloveSlot.WidgetTree
+[2021.08.20-05.41.28:716][813]LogUObjectHash: Warning: Ambiguous path search, could be Class /Script/UMG.WidgetTree or WidgetTree /Engine/Transient.World_20:Wgt_Player_UI_C_13.WidgetTree.CharacterSheet.WidgetTree.BootsSlot.WidgetTree
+[2021.08.20-05.41.28:716][813]LogUObjectHash: Warning: Ambiguous path search, could be Class /Script/UMG.WidgetTree or WidgetTree /Engine/Transient.World_27:CharacterSheet_C_24.WidgetTree
+[2021.08.20-05.41.28:716][813]LogUObjectHash: Warning: Ambiguous path search, could be Class /Script/UMG.WidgetTree or WidgetTree /Engine/Transient.World_27:CharacterSheet_C_24.WidgetTree.HeadSlot.WidgetTree
+[2021.08.20-05.41.28:716][813]LogUObjectHash: Warning: Ambiguous path search, could be Class /Script/UMG.WidgetTree or WidgetTree /Engine/Transient.World_27:CharacterSheet_C_24.WidgetTree.MHSlot.WidgetTree
+[2021.08.20-05.41.28:716][813]LogUObjectHash: Warning: Ambiguous path search, could be Class /Script/UMG.WidgetTree or WidgetTree /Engine/Transient.World_27:CharacterSheet_C_24.WidgetTree.BodySlot.WidgetTree
+[2021.08.20-05.41.28:716][813]LogUObjectHash: Warning: Ambiguous path search, could be Class /Script/UMG.WidgetTree or WidgetTree /Engine/Transient.World_27:CharacterSheet_C_24.WidgetTree.LegSlot.WidgetTree
+[2021.08.20-05.41.28:716][813]LogUObjectHash: Warning: Ambiguous path search, could be Class /Script/UMG.WidgetTree or WidgetTree /Engine/Transient.World_27:CharacterSheet_C_24.WidgetTree.GloveSlot.WidgetTree
+[2021.08.20-05.41.28:716][813]LogUObjectHash: Warning: Ambiguous path search, could be Class /Script/UMG.WidgetTree or WidgetTree /Engine/Transient.World_27:CharacterSheet_C_24.WidgetTree.BootsSlot.WidgetTree
+[2021.08.20-05.41.28:716][813]LogUObjectHash: Warning: Ambiguous path search, could be Class /Script/UMG.WidgetTree or WidgetTree /Engine/Transient.World_20:Wgt_Player_UI_C_14.WidgetTree
+[2021.08.20-05.41.28:716][813]LogUObjectHash: Warning: Ambiguous path search, could be Class /Script/UMG.WidgetTree or WidgetTree /Engine/Transient.World_20:Wgt_Player_UI_C_14.WidgetTree.CharacterSheet.WidgetTree
+[2021.08.20-05.41.28:716][813]LogUObjectHash: Warning: Ambiguous path search, could be Class /Script/UMG.WidgetTree or WidgetTree /Engine/Transient.World_20:Wgt_Player_UI_C_14.WidgetTree.CharacterSheet.WidgetTree.HeadSlot.WidgetTree
+[2021.08.20-05.41.28:716][813]LogUObjectHash: Warning: Ambiguous path search, could be Class /Script/UMG.WidgetTree or WidgetTree /Engine/Transient.World_20:Wgt_Player_UI_C_14.WidgetTree.CharacterSheet.WidgetTree.Weapon_Slot.WidgetTree
+[2021.08.20-05.41.28:716][813]LogUObjectHash: Warning: Ambiguous path search, could be Class /Script/UMG.WidgetTree or WidgetTree /Engine/Transient.World_20:Wgt_Player_UI_C_14.WidgetTree.CharacterSheet.WidgetTree.BodySlot.WidgetTree
+[2021.08.20-05.41.28:716][813]LogUObjectHash: Warning: Ambiguous path search, could be Class /Script/UMG.WidgetTree or WidgetTree /Engine/Transient.World_20:Wgt_Player_UI_C_14.WidgetTree.CharacterSheet.WidgetTree.LegSlot.WidgetTree
+[2021.08.20-05.41.28:716][813]LogUObjectHash: Warning: Ambiguous path search, could be Class /Script/UMG.WidgetTree or WidgetTree /Engine/Transient.World_20:Wgt_Player_UI_C_14.WidgetTree.CharacterSheet.WidgetTree.GloveSlot.WidgetTree
+[2021.08.20-05.41.28:716][813]LogUObjectHash: Warning: Ambiguous path search, could be Class /Script/UMG.WidgetTree or WidgetTree /Engine/Transient.World_20:Wgt_Player_UI_C_14.WidgetTree.CharacterSheet.WidgetTree.BootsSlot.WidgetTree
+[2021.08.20-05.41.28:716][813]LogUObjectHash: Warning: Ambiguous path search, could be Class /Script/UMG.WidgetTree or WidgetTree /Engine/Transient.World_32:CharacterSheet_C_0.WidgetTree
+[2021.08.20-05.41.28:716][813]LogUObjectHash: Warning: Ambiguous path search, could be Class /Script/UMG.WidgetTree or WidgetTree /Engine/Transient.World_32:CharacterSheet_C_0.WidgetTree.HeadSlot.WidgetTree
+[2021.08.20-05.41.28:716][813]LogUObjectHash: Warning: Ambiguous path search, could be Class /Script/UMG.WidgetTree or WidgetTree /Engine/Transient.World_32:CharacterSheet_C_0.WidgetTree.Weapon_Slot.WidgetTree
+[2021.08.20-05.41.28:716][813]LogUObjectHash: Warning: Ambiguous path search, could be Class /Script/UMG.WidgetTree or WidgetTree /Engine/Transient.World_32:CharacterSheet_C_0.WidgetTree.BodySlot.WidgetTree
+[2021.08.20-05.41.28:716][813]LogUObjectHash: Warning: Ambiguous path search, could be Class /Script/UMG.WidgetTree or WidgetTree /Engine/Transient.World_32:CharacterSheet_C_0.WidgetTree.LegSlot.WidgetTree
+[2021.08.20-05.41.28:716][813]LogUObjectHash: Warning: Ambiguous path search, could be Class /Script/UMG.WidgetTree or WidgetTree /Engine/Transient.World_32:CharacterSheet_C_0.WidgetTree.GloveSlot.WidgetTree
+[2021.08.20-05.41.28:716][813]LogUObjectHash: Warning: Ambiguous path search, could be Class /Script/UMG.WidgetTree or WidgetTree /Engine/Transient.World_32:CharacterSheet_C_0.WidgetTree.BootsSlot.WidgetTree
+[2021.08.20-05.41.28:716][813]LogUObjectHash: Warning: Ambiguous path search, could be Class /Script/UMG.WidgetTree or WidgetTree /Engine/Transient.World_27:CharacterSheet_C_25.WidgetTree
+[2021.08.20-05.41.28:716][813]LogUObjectHash: Warning: Ambiguous path search, could be Class /Script/UMG.WidgetTree or WidgetTree /Engine/Transient.World_27:CharacterSheet_C_25.WidgetTree.HeadSlot.WidgetTree
+[2021.08.20-05.41.28:716][813]LogUObjectHash: Warning: Ambiguous path search, could be Class /Script/UMG.WidgetTree or WidgetTree /Engine/Transient.World_27:CharacterSheet_C_25.WidgetTree.MHSlot.WidgetTree
+[2021.08.20-05.41.28:716][813]LogUObjectHash: Warning: Ambiguous path search, could be Class /Script/UMG.WidgetTree or WidgetTree /Engine/Transient.World_27:CharacterSheet_C_25.WidgetTree.BodySlot.WidgetTree
+[2021.08.20-05.41.28:716][813]LogUObjectHash: Warning: Ambiguous path search, could be Class /Script/UMG.WidgetTree or WidgetTree /Engine/Transient.World_27:CharacterSheet_C_25.WidgetTree.LegSlot.WidgetTree
+[2021.08.20-05.41.28:716][813]LogUObjectHash: Warning: Ambiguous path search, could be Class /Script/UMG.WidgetTree or WidgetTree /Engine/Transient.World_27:CharacterSheet_C_25.WidgetTree.GloveSlot.WidgetTree
+[2021.08.20-05.41.28:716][813]LogUObjectHash: Warning: Ambiguous path search, could be Class /Script/UMG.WidgetTree or WidgetTree /Engine/Transient.World_27:CharacterSheet_C_25.WidgetTree.BootsSlot.WidgetTree
+[2021.08.20-05.41.28:716][813]LogUObjectHash: Warning: Ambiguous path search, could be Image /Engine/Transient.World_23:Armor_Slot_C_8.WidgetTree.Armor_Image or Image /Game/Blueprints/Equipment_System/Armor_Slot.Armor_Slot:WidgetTree.Armor_Image
+[2021.08.20-05.41.28:716][813]LogUObjectHash: Warning: Ambiguous path search, could be Image /Engine/Transient.World_23:Armor_Slot_C_8.WidgetTree.Armor_Image or Image /Engine/Transient.World_23:Armor_Slot_C_9.WidgetTree.Armor_Image
+[2021.08.20-05.41.28:716][813]LogUObjectHash: Warning: Ambiguous path search, could be Image /Engine/Transient.World_23:Armor_Slot_C_8.WidgetTree.Armor_Image or Image /Game/Blueprints/Equipment_System/Armor_Slot.Armor_Slot_C:WidgetTree.Armor_Image
+[2021.08.20-05.41.28:716][813]LogUObjectHash: Warning: Ambiguous path search, could be Image /Engine/Transient.World_23:Armor_Slot_C_8.WidgetTree.Armor_Image or Image /Game/Blueprints/Equipment_System/CharacterSheet.CharacterSheet:WidgetTree.MHSlot.WidgetTree.Armor_Image
+[2021.08.20-05.41.28:716][813]LogUObjectHash: Warning: Ambiguous path search, could be Image /Engine/Transient.World_23:Armor_Slot_C_8.WidgetTree.Armor_Image or Image /Engine/Transient.World_23:Armor_Slot_C_11.WidgetTree.Armor_Image
+[2021.08.20-05.41.28:716][813]LogUObjectHash: Warning: Ambiguous path search, could be Image /Engine/Transient.World_23:Armor_Slot_C_8.WidgetTree.Armor_Image or Image /Engine/Transient.World_27:CharacterSheet_C_18.WidgetTree.BootsSlot.WidgetTree.Armor_Image
+[2021.08.20-05.41.28:716][813]LogUObjectHash: Warning: Ambiguous path search, could be Image /Engine/Transient.World_23:Armor_Slot_C_8.WidgetTree.Armor_Image or Image /Engine/Transient.World_27:CharacterSheet_C_18.WidgetTree.GloveSlot.WidgetTree.Armor_Image
+[2021.08.20-05.41.28:716][813]LogUObjectHash: Warning: Ambiguous path search, could be Image /Engine/Transient.World_23:Armor_Slot_C_8.WidgetTree.Armor_Image or Image /Engine/Transient.World_27:CharacterSheet_C_18.WidgetTree.LegSlot.WidgetTree.Armor_Image
+[2021.08.20-05.41.28:716][813]LogUObjectHash: Warning: Ambiguous path search, could be Image /Engine/Transient.World_23:Armor_Slot_C_8.WidgetTree.Armor_Image or Image /Engine/Transient.World_27:CharacterSheet_C_18.WidgetTree.BodySlot.WidgetTree.Armor_Image
+[2021.08.20-05.41.28:716][813]LogUObjectHash: Warning: Ambiguous path search, could be Image /Engine/Transient.World_23:Armor_Slot_C_8.WidgetTree.Armor_Image or Image /Engine/Transient.World_27:CharacterSheet_C_18.WidgetTree.HeadSlot.WidgetTree.Armor_Image
+[2021.08.20-05.41.28:716][813]LogUObjectHash: Warning: Ambiguous path search, could be Image /Engine/Transient.World_23:Armor_Slot_C_8.WidgetTree.Armor_Image or Image /Engine/Transient.World_27:CharacterSheet_C_17.WidgetTree.BootsSlot.WidgetTree.Armor_Image
+[2021.08.20-05.41.28:716][813]LogUObjectHash: Warning: Ambiguous path search, could be Image /Engine/Transient.World_23:Armor_Slot_C_8.WidgetTree.Armor_Image or Image /Engine/Transient.World_27:CharacterSheet_C_17.WidgetTree.GloveSlot.WidgetTree.Armor_Image
+[2021.08.20-05.41.28:716][813]LogUObjectHash: Warning: Ambiguous path search, could be Image /Engine/Transient.World_23:Armor_Slot_C_8.WidgetTree.Armor_Image or Image /Engine/Transient.World_27:CharacterSheet_C_17.WidgetTree.LegSlot.WidgetTree.Armor_Image
+[2021.08.20-05.41.28:716][813]LogUObjectHash: Warning: Ambiguous path search, could be Image /Engine/Transient.World_23:Armor_Slot_C_8.WidgetTree.Armor_Image or Image /Engine/Transient.World_27:CharacterSheet_C_17.WidgetTree.BodySlot.WidgetTree.Armor_Image
+[2021.08.20-05.41.28:716][813]LogUObjectHash: Warning: Ambiguous path search, could be Image /Engine/Transient.World_23:Armor_Slot_C_8.WidgetTree.Armor_Image or Image /Engine/Transient.World_27:CharacterSheet_C_17.WidgetTree.HeadSlot.WidgetTree.Armor_Image
+[2021.08.20-05.41.28:716][813]LogUObjectHash: Warning: Ambiguous path search, could be Image /Engine/Transient.World_23:Armor_Slot_C_8.WidgetTree.Armor_Image or Image /Engine/Transient.World_27:CharacterSheet_C_16.WidgetTree.Armor_Slot_4.WidgetTree.Armor_Image
+[2021.08.20-05.41.28:716][813]LogUObjectHash: Warning: Ambiguous path search, could be Image /Engine/Transient.World_23:Armor_Slot_C_8.WidgetTree.Armor_Image or Image /Engine/Transient.World_27:CharacterSheet_C_16.WidgetTree.GloveSlot.WidgetTree.Armor_Image
+[2021.08.20-05.41.28:716][813]LogUObjectHash: Warning: Ambiguous path search, could be Image /Engine/Transient.World_23:Armor_Slot_C_8.WidgetTree.Armor_Image or Image /Engine/Transient.World_27:CharacterSheet_C_16.WidgetTree.LegSlot.WidgetTree.Armor_Image
+[2021.08.20-05.41.28:716][813]LogUObjectHash: Warning: Ambiguous path search, could be Image /Engine/Transient.World_23:Armor_Slot_C_8.WidgetTree.Armor_Image or Image /Engine/Transient.World_27:CharacterSheet_C_16.WidgetTree.BodySlot.WidgetTree.Armor_Image
+[2021.08.20-05.41.28:716][813]LogUObjectHash: Warning: Ambiguous path search, could be Image /Engine/Transient.World_23:Armor_Slot_C_8.WidgetTree.Armor_Image or Image /Engine/Transient.World_27:CharacterSheet_C_16.WidgetTree.HeadSlot.WidgetTree.Armor_Image
+[2021.08.20-05.41.28:716][813]LogUObjectHash: Warning: Ambiguous path search, could be Image /Engine/Transient.World_23:Armor_Slot_C_8.WidgetTree.Armor_Image or Image /Engine/Transient.World_27:CharacterSheet_C_15.WidgetTree.Armor_Slot_4.WidgetTree.Armor_Image
+[2021.08.20-05.41.28:717][813]LogUObjectHash: Warning: Ambiguous path search, could be Image /Engine/Transient.World_23:Armor_Slot_C_8.WidgetTree.Armor_Image or Image /Engine/Transient.World_27:CharacterSheet_C_15.WidgetTree.Armor_Slot_3.WidgetTree.Armor_Image
+[2021.08.20-05.41.28:717][813]LogUObjectHash: Warning: Ambiguous path search, could be Image /Engine/Transient.World_23:Armor_Slot_C_8.WidgetTree.Armor_Image or Image /Engine/Transient.World_27:CharacterSheet_C_15.WidgetTree.LegSlot.WidgetTree.Armor_Image
+[2021.08.20-05.41.28:717][813]LogUObjectHash: Warning: Ambiguous path search, could be Image /Engine/Transient.World_23:Armor_Slot_C_8.WidgetTree.Armor_Image or Image /Engine/Transient.World_27:CharacterSheet_C_15.WidgetTree.BodySlot.WidgetTree.Armor_Image
+[2021.08.20-05.41.28:717][813]LogUObjectHash: Warning: Ambiguous path search, could be Image /Engine/Transient.World_23:Armor_Slot_C_8.WidgetTree.Armor_Image or Image /Engine/Transient.World_27:CharacterSheet_C_15.WidgetTree.HeadSlot.WidgetTree.Armor_Image
+[2021.08.20-05.41.28:717][813]LogUObjectHash: Warning: Ambiguous path search, could be Image /Engine/Transient.World_23:Armor_Slot_C_8.WidgetTree.Armor_Image or Image /Engine/Transient.World_27:CharacterSheet_C_14.WidgetTree.Armor_Slot_4.WidgetTree.Armor_Image
+[2021.08.20-05.41.28:717][813]LogUObjectHash: Warning: Ambiguous path search, could be Image /Engine/Transient.World_23:Armor_Slot_C_8.WidgetTree.Armor_Image or Image /Engine/Transient.World_27:CharacterSheet_C_14.WidgetTree.Armor_Slot_3.WidgetTree.Armor_Image
+[2021.08.20-05.41.28:717][813]LogUObjectHash: Warning: Ambiguous path search, could be Image /Engine/Transient.World_23:Armor_Slot_C_8.WidgetTree.Armor_Image or Image /Engine/Transient.World_27:CharacterSheet_C_14.WidgetTree.Armor_Slot_2.WidgetTree.Armor_Image
+[2021.08.20-05.41.28:717][813]LogUObjectHash: Warning: Ambiguous path search, could be Image /Engine/Transient.World_23:Armor_Slot_C_8.WidgetTree.Armor_Image or Image /Engine/Transient.World_27:CharacterSheet_C_14.WidgetTree.BodySlot.WidgetTree.Armor_Image
+[2021.08.20-05.41.28:717][813]LogUObjectHash: Warning: Ambiguous path search, could be Image /Engine/Transient.World_23:Armor_Slot_C_8.WidgetTree.Armor_Image or Image /Engine/Transient.World_27:CharacterSheet_C_14.WidgetTree.HeadSlot.WidgetTree.Armor_Image
+[2021.08.20-05.41.28:717][813]LogUObjectHash: Warning: Ambiguous path search, could be Image /Engine/Transient.World_23:Armor_Slot_C_8.WidgetTree.Armor_Image or Image /Engine/Transient.World_27:CharacterSheet_C_13.WidgetTree.Armor_Slot_4.WidgetTree.Armor_Image
+[2021.08.20-05.41.28:717][813]LogUObjectHash: Warning: Ambiguous path search, could be Image /Engine/Transient.World_23:Armor_Slot_C_8.WidgetTree.Armor_Image or Image /Engine/Transient.World_27:CharacterSheet_C_13.WidgetTree.Armor_Slot_3.WidgetTree.Armor_Image
+[2021.08.20-05.41.28:717][813]LogUObjectHash: Warning: Ambiguous path search, could be Image /Engine/Transient.World_23:Armor_Slot_C_8.WidgetTree.Armor_Image or Image /Engine/Transient.World_27:CharacterSheet_C_13.WidgetTree.Armor_Slot_2.WidgetTree.Armor_Image
+[2021.08.20-05.41.28:717][813]LogUObjectHash: Warning: Ambiguous path search, could be Image /Engine/Transient.World_23:Armor_Slot_C_8.WidgetTree.Armor_Image or Image /Engine/Transient.World_27:CharacterSheet_C_13.WidgetTree.Armor_Slot_1.WidgetTree.Armor_Image
+[2021.08.20-05.41.28:717][813]LogUObjectHash: Warning: Ambiguous path search, could be Image /Engine/Transient.World_23:Armor_Slot_C_8.WidgetTree.Armor_Image or Image /Engine/Transient.World_27:CharacterSheet_C_13.WidgetTree.HeadSlot.WidgetTree.Armor_Image
+[2021.08.20-05.41.28:717][813]LogUObjectHash: Warning: Ambiguous path search, could be Image /Engine/Transient.World_23:Armor_Slot_C_8.WidgetTree.Armor_Image or Image /Engine/Transient.World_27:CharacterSheet_C_12.WidgetTree.Armor_Slot_4.WidgetTree.Armor_Image
+[2021.08.20-05.41.28:717][813]LogUObjectHash: Warning: Ambiguous path search, could be Image /Engine/Transient.World_23:Armor_Slot_C_8.WidgetTree.Armor_Image or Image /Engine/Transient.World_27:CharacterSheet_C_12.WidgetTree.Armor_Slot_3.WidgetTree.Armor_Image
+[2021.08.20-05.41.28:717][813]LogUObjectHash: Warning: Ambiguous path search, could be Image /Engine/Transient.World_23:Armor_Slot_C_8.WidgetTree.Armor_Image or Image /Engine/Transient.World_27:CharacterSheet_C_12.WidgetTree.Armor_Slot_2.WidgetTree.Armor_Image
+[2021.08.20-05.41.28:717][813]LogUObjectHash: Warning: Ambiguous path search, could be Image /Engine/Transient.World_23:Armor_Slot_C_8.WidgetTree.Armor_Image or Image /Engine/Transient.World_27:CharacterSheet_C_12.WidgetTree.Armor_Slot_1.WidgetTree.Armor_Image
+[2021.08.20-05.41.28:717][813]LogUObjectHash: Warning: Ambiguous path search, could be Image /Engine/Transient.World_23:Armor_Slot_C_8.WidgetTree.Armor_Image or Image /Engine/Transient.World_27:CharacterSheet_C_12.WidgetTree.Armor_Slot.WidgetTree.Armor_Image
+[2021.08.20-05.41.28:717][813]LogUObjectHash: Warning: Ambiguous path search, could be Image /Engine/Transient.World_23:Armor_Slot_C_8.WidgetTree.Armor_Image or Image /Engine/Transient.World_27:CharacterSheet_C_11.WidgetTree.Armor_Slot_3.WidgetTree.Armor_Image
+[2021.08.20-05.41.28:717][813]LogUObjectHash: Warning: Ambiguous path search, could be Image /Engine/Transient.World_23:Armor_Slot_C_8.WidgetTree.Armor_Image or Image /Engine/Transient.World_27:CharacterSheet_C_11.WidgetTree.Armor_Slot_2.WidgetTree.Armor_Image
+[2021.08.20-05.41.28:717][813]LogUObjectHash: Warning: Ambiguous path search, could be Image /Engine/Transient.World_23:Armor_Slot_C_8.WidgetTree.Armor_Image or Image /Engine/Transient.World_27:CharacterSheet_C_11.WidgetTree.Armor_Slot_1.WidgetTree.Armor_Image
+[2021.08.20-05.41.28:717][813]LogUObjectHash: Warning: Ambiguous path search, could be Image /Engine/Transient.World_23:Armor_Slot_C_8.WidgetTree.Armor_Image or Image /Engine/Transient.World_27:CharacterSheet_C_11.WidgetTree.Armor_Slot.WidgetTree.Armor_Image
+[2021.08.20-05.41.28:717][813]LogUObjectHash: Warning: Ambiguous path search, could be Image /Engine/Transient.World_23:Armor_Slot_C_8.WidgetTree.Armor_Image or Image /Engine/Transient.World_27:CharacterSheet_C_10.WidgetTree.Armor_Slot_3.WidgetTree.Armor_Image
+[2021.08.20-05.41.28:717][813]LogUObjectHash: Warning: Ambiguous path search, could be Image /Engine/Transient.World_23:Armor_Slot_C_8.WidgetTree.Armor_Image or Image /Engine/Transient.World_27:CharacterSheet_C_10.WidgetTree.Armor_Slot_2.WidgetTree.Armor_Image
+[2021.08.20-05.41.28:717][813]LogUObjectHash: Warning: Ambiguous path search, could be Image /Engine/Transient.World_23:Armor_Slot_C_8.WidgetTree.Armor_Image or Image /Engine/Transient.World_27:CharacterSheet_C_10.WidgetTree.Armor_Slot_1.WidgetTree.Armor_Image
+[2021.08.20-05.41.28:717][813]LogUObjectHash: Warning: Ambiguous path search, could be Image /Engine/Transient.World_23:Armor_Slot_C_8.WidgetTree.Armor_Image or Image /Engine/Transient.World_27:CharacterSheet_C_10.WidgetTree.Armor_Slot.WidgetTree.Armor_Image
+[2021.08.20-05.41.28:717][813]LogUObjectHash: Warning: Ambiguous path search, could be Image /Engine/Transient.World_23:Armor_Slot_C_8.WidgetTree.Armor_Image or Image /Engine/Transient.World_27:CharacterSheet_C_9.WidgetTree.Armor_Slot_2.WidgetTree.Armor_Image
+[2021.08.20-05.41.28:717][813]LogUObjectHash: Warning: Ambiguous path search, could be Image /Engine/Transient.World_23:Armor_Slot_C_8.WidgetTree.Armor_Image or Image /Engine/Transient.World_27:CharacterSheet_C_9.WidgetTree.Armor_Slot_1.WidgetTree.Armor_Image
+[2021.08.20-05.41.28:717][813]LogUObjectHash: Warning: Ambiguous path search, could be Image /Engine/Transient.World_23:Armor_Slot_C_8.WidgetTree.Armor_Image or Image /Engine/Transient.World_27:CharacterSheet_C_9.WidgetTree.Armor_Slot.WidgetTree.Armor_Image
+[2021.08.20-05.41.28:717][813]LogUObjectHash: Warning: Ambiguous path search, could be Image /Engine/Transient.World_23:Armor_Slot_C_8.WidgetTree.Armor_Image or Image /Engine/Transient.World_27:CharacterSheet_C_8.WidgetTree.Armor_Slot_2.WidgetTree.Armor_Image
+[2021.08.20-05.41.28:717][813]LogUObjectHash: Warning: Ambiguous path search, could be Image /Engine/Transient.World_23:Armor_Slot_C_8.WidgetTree.Armor_Image or Image /Engine/Transient.World_27:CharacterSheet_C_8.WidgetTree.Armor_Slot_1.WidgetTree.Armor_Image
+[2021.08.20-05.41.28:717][813]LogUObjectHash: Warning: Ambiguous path search, could be Image /Engine/Transient.World_23:Armor_Slot_C_8.WidgetTree.Armor_Image or Image /Engine/Transient.World_27:CharacterSheet_C_8.WidgetTree.Armor_Slot.WidgetTree.Armor_Image
+[2021.08.20-05.41.28:717][813]LogUObjectHash: Warning: Ambiguous path search, could be Image /Engine/Transient.World_23:Armor_Slot_C_8.WidgetTree.Armor_Image or Image /Engine/Transient.World_27:CharacterSheet_C_7.WidgetTree.Armor_Slot_1.WidgetTree.Armor_Image
+[2021.08.20-05.41.28:717][813]LogUObjectHash: Warning: Ambiguous path search, could be Image /Engine/Transient.World_23:Armor_Slot_C_8.WidgetTree.Armor_Image or Image /Engine/Transient.World_27:CharacterSheet_C_7.WidgetTree.Armor_Slot.WidgetTree.Armor_Image
+[2021.08.20-05.41.28:717][813]LogUObjectHash: Warning: Ambiguous path search, could be Image /Engine/Transient.World_23:Armor_Slot_C_8.WidgetTree.Armor_Image or Image /Engine/Transient.World_27:CharacterSheet_C_6.WidgetTree.Armor_Slot_1.WidgetTree.Armor_Image
+[2021.08.20-05.41.28:717][813]LogUObjectHash: Warning: Ambiguous path search, could be Image /Engine/Transient.World_23:Armor_Slot_C_8.WidgetTree.Armor_Image or Image /Engine/Transient.World_27:CharacterSheet_C_6.WidgetTree.Armor_Slot.WidgetTree.Armor_Image
+[2021.08.20-05.41.28:717][813]LogUObjectHash: Warning: Ambiguous path search, could be Image /Engine/Transient.World_23:Armor_Slot_C_8.WidgetTree.Armor_Image or Image /Engine/Transient.World_27:CharacterSheet_C_5.WidgetTree.Armor_Slot.WidgetTree.Armor_Image
+[2021.08.20-05.41.28:717][813]LogUObjectHash: Warning: Ambiguous path search, could be Image /Engine/Transient.World_23:Armor_Slot_C_8.WidgetTree.Armor_Image or Image /Game/Blueprints/Equipment_System/CharacterSheet.CharacterSheet:WidgetTree.HeadSlot.WidgetTree.Armor_Image
+[2021.08.20-05.41.28:717][813]LogUObjectHash: Warning: Ambiguous path search, could be Image /Engine/Transient.World_23:Armor_Slot_C_8.WidgetTree.Armor_Image or Image /Game/Blueprints/Equipment_System/Weapon_Slot.Weapon_Slot_C:WidgetTree.Armor_Image
+[2021.08.20-05.41.28:717][813]LogUObjectHash: Warning: Ambiguous path search, could be Image /Engine/Transient.World_23:Armor_Slot_C_8.WidgetTree.Armor_Image or Image /Game/Blueprints/Equipment_System/Weapon_Slot.Weapon_Slot:WidgetTree.Armor_Image
+[2021.08.20-05.41.28:717][813]LogUObjectHash: Warning: Ambiguous path search, could be Image /Engine/Transient.World_23:Armor_Slot_C_8.WidgetTree.Armor_Image or Image /Engine/Transient.World_27:CharacterSheet_C_21.WidgetTree.HeadSlot.WidgetTree.Armor_Image
+[2021.08.20-05.41.28:717][813]LogUObjectHash: Warning: Ambiguous path search, could be Image /Engine/Transient.World_23:Armor_Slot_C_8.WidgetTree.Armor_Image or Image /Engine/Transient.World_27:CharacterSheet_C_21.WidgetTree.Weapon_Slot.WidgetTree.Armor_Image
+[2021.08.20-05.41.28:717][813]LogUObjectHash: Warning: Ambiguous path search, could be Image /Engine/Transient.World_23:Armor_Slot_C_8.WidgetTree.Armor_Image or Image /Engine/Transient.World_27:CharacterSheet_C_21.WidgetTree.BodySlot.WidgetTree.Armor_Image
+[2021.08.20-05.41.28:717][813]LogUObjectHash: Warning: Ambiguous path search, could be Image /Engine/Transient.World_23:Armor_Slot_C_8.WidgetTree.Armor_Image or Image /Engine/Transient.World_27:CharacterSheet_C_21.WidgetTree.LegSlot.WidgetTree.Armor_Image
+[2021.08.20-05.41.28:717][813]LogUObjectHash: Warning: Ambiguous path search, could be Image /Engine/Transient.World_23:Armor_Slot_C_8.WidgetTree.Armor_Image or Image /Engine/Transient.World_27:CharacterSheet_C_21.WidgetTree.GloveSlot.WidgetTree.Armor_Image
+[2021.08.20-05.41.28:717][813]LogUObjectHash: Warning: Ambiguous path search, could be Image /Engine/Transient.World_23:Armor_Slot_C_8.WidgetTree.Armor_Image or Image /Engine/Transient.World_27:CharacterSheet_C_22.WidgetTree.GloveSlot.WidgetTree.Armor_Image
+[2021.08.20-05.41.28:717][813]LogUObjectHash: Warning: Ambiguous path search, could be Image /Engine/Transient.World_23:Armor_Slot_C_8.WidgetTree.Armor_Image or Image /Engine/Transient.World_27:CharacterSheet_C_22.WidgetTree.BootsSlot.WidgetTree.Armor_Image
+[2021.08.20-05.41.28:717][813]LogUObjectHash: Warning: Ambiguous path search, could be Image /Engine/Transient.World_23:Armor_Slot_C_8.WidgetTree.Armor_Image or Image /Engine/Transient.REINST_CharacterSheet_C_73:WidgetTree.HeadSlot.WidgetTree.Armor_Image
+[2021.08.20-05.41.28:717][813]LogUObjectHash: Warning: Ambiguous path search, could be Image /Engine/Transient.World_23:Armor_Slot_C_8.WidgetTree.Armor_Image or Image /Game/Blueprints/Equipment_System/CharacterSheet.CharacterSheet_C:WidgetTree.HeadSlot.WidgetTree.Armor_Image
+[2021.08.20-05.41.28:717][813]LogUObjectHash: Warning: Ambiguous path search, could be Image /Engine/Transient.World_23:Armor_Slot_C_8.WidgetTree.Armor_Image or Image /Game/Blueprints/Equipment_System/CharacterSheet.CharacterSheet_C:WidgetTree.Weapon_Slot.WidgetTree.Armor_Image
+[2021.08.20-05.41.28:717][813]LogUObjectHash: Warning: Ambiguous path search, could be Image /Engine/Transient.World_23:Armor_Slot_C_8.WidgetTree.Armor_Image or Image /Engine/Transient.World_30:Weapon_Slot_C_1.WidgetTree.Armor_Image
+[2021.08.20-05.41.28:717][813]LogUObjectHash: Warning: Ambiguous path search, could be Image /Engine/Transient.World_23:Armor_Slot_C_8.WidgetTree.Armor_Image or Image /Engine/Transient.World_27:CharacterSheet_C_22.WidgetTree.LegSlot.WidgetTree.Armor_Image
+[2021.08.20-05.41.28:717][813]LogUObjectHash: Warning: Ambiguous path search, could be Image /Engine/Transient.World_23:Armor_Slot_C_8.WidgetTree.Armor_Image or Image /Engine/Transient.World_27:CharacterSheet_C_22.WidgetTree.BodySlot.WidgetTree.Armor_Image
+[2021.08.20-05.41.28:717][813]LogUObjectHash: Warning: Ambiguous path search, could be Image /Engine/Transient.World_23:Armor_Slot_C_8.WidgetTree.Armor_Image or Image /Engine/Transient.World_27:CharacterSheet_C_22.WidgetTree.Weapon_Slot.WidgetTree.Armor_Image
+[2021.08.20-05.41.28:717][813]LogUObjectHash: Warning: Ambiguous path search, could be Image /Engine/Transient.World_23:Armor_Slot_C_8.WidgetTree.Armor_Image or Image /Engine/Transient.World_27:CharacterSheet_C_22.WidgetTree.HeadSlot.WidgetTree.Armor_Image
+[2021.08.20-05.41.28:717][813]LogUObjectHash: Warning: Ambiguous path search, could be Image /Engine/Transient.World_23:Armor_Slot_C_8.WidgetTree.Armor_Image or Image /Engine/Transient.World_27:CharacterSheet_C_21.WidgetTree.BootsSlot.WidgetTree.Armor_Image
+[2021.08.20-05.41.28:717][813]LogUObjectHash: Warning: Ambiguous path search, could be Image /Engine/Transient.World_23:Armor_Slot_C_8.WidgetTree.Armor_Image or Image /Engine/Transient.World_27:CharacterSheet_C_23.WidgetTree.HeadSlot.WidgetTree.Armor_Image
+[2021.08.20-05.41.28:717][813]LogUObjectHash: Warning: Ambiguous path search, could be Image /Engine/Transient.World_23:Armor_Slot_C_8.WidgetTree.Armor_Image or Image /Engine/Transient.World_27:CharacterSheet_C_23.WidgetTree.Weapon_Slot.WidgetTree.Armor_Image
+[2021.08.20-05.41.28:717][813]LogUObjectHash: Warning: Ambiguous path search, could be Image /Engine/Transient.World_23:Armor_Slot_C_8.WidgetTree.Armor_Image or Image /Engine/Transient.World_27:CharacterSheet_C_23.WidgetTree.BodySlot.WidgetTree.Armor_Image
+[2021.08.20-05.41.28:717][813]LogUObjectHash: Warning: Ambiguous path search, could be Image /Engine/Transient.World_23:Armor_Slot_C_8.WidgetTree.Armor_Image or Image /Engine/Transient.World_27:CharacterSheet_C_23.WidgetTree.LegSlot.WidgetTree.Armor_Image
+[2021.08.20-05.41.28:717][813]LogUObjectHash: Warning: Ambiguous path search, could be Image /Engine/Transient.World_23:Armor_Slot_C_8.WidgetTree.Armor_Image or Image /Engine/Transient.World_27:CharacterSheet_C_23.WidgetTree.GloveSlot.WidgetTree.Armor_Image
+[2021.08.20-05.41.28:717][813]LogUObjectHash: Warning: Ambiguous path search, could be Image /Engine/Transient.World_23:Armor_Slot_C_8.WidgetTree.Armor_Image or Image /Engine/Transient.World_27:CharacterSheet_C_23.WidgetTree.BootsSlot.WidgetTree.Armor_Image
+[2021.08.20-05.41.28:717][813]LogUObjectHash: Warning: Ambiguous path search, could be Image /Engine/Transient.World_23:Armor_Slot_C_8.WidgetTree.Armor_Image or Image /Engine/Transient.World_20:Wgt_Player_UI_C_13.WidgetTree.CharacterSheet.WidgetTree.HeadSlot.WidgetTree.Armor_Image
+[2021.08.20-05.41.28:717][813]LogUObjectHash: Warning: Ambiguous path search, could be Image /Engine/Transient.World_23:Armor_Slot_C_8.WidgetTree.Armor_Image or Image /Engine/Transient.World_20:Wgt_Player_UI_C_13.WidgetTree.CharacterSheet.WidgetTree.Weapon_Slot.WidgetTree.Armor_Image
+[2021.08.20-05.41.28:717][813]LogUObjectHash: Warning: Ambiguous path search, could be Image /Engine/Transient.World_23:Armor_Slot_C_8.WidgetTree.Armor_Image or Image /Engine/Transient.World_20:Wgt_Player_UI_C_13.WidgetTree.CharacterSheet.WidgetTree.BodySlot.WidgetTree.Armor_Image
+[2021.08.20-05.41.28:718][813]LogUObjectHash: Warning: Ambiguous path search, could be Image /Engine/Transient.World_23:Armor_Slot_C_8.WidgetTree.Armor_Image or Image /Engine/Transient.World_20:Wgt_Player_UI_C_13.WidgetTree.CharacterSheet.WidgetTree.LegSlot.WidgetTree.Armor_Image
+[2021.08.20-05.41.28:718][813]LogUObjectHash: Warning: Ambiguous path search, could be Image /Engine/Transient.World_23:Armor_Slot_C_8.WidgetTree.Armor_Image or Image /Engine/Transient.World_20:Wgt_Player_UI_C_13.WidgetTree.CharacterSheet.WidgetTree.GloveSlot.WidgetTree.Armor_Image
+[2021.08.20-05.41.28:718][813]LogUObjectHash: Warning: Ambiguous path search, could be Image /Engine/Transient.World_23:Armor_Slot_C_8.WidgetTree.Armor_Image or Image /Engine/Transient.World_20:Wgt_Player_UI_C_13.WidgetTree.CharacterSheet.WidgetTree.BootsSlot.WidgetTree.Armor_Image
+[2021.08.20-05.41.28:718][813]LogUObjectHash: Warning: Ambiguous path search, could be Image /Engine/Transient.World_23:Armor_Slot_C_8.WidgetTree.Armor_Image or Image /Engine/Transient.World_27:CharacterSheet_C_24.WidgetTree.HeadSlot.WidgetTree.Armor_Image
+[2021.08.20-05.41.28:718][813]LogUObjectHash: Warning: Ambiguous path search, could be Image /Engine/Transient.World_23:Armor_Slot_C_8.WidgetTree.Armor_Image or Image /Engine/Transient.World_27:CharacterSheet_C_24.WidgetTree.MHSlot.WidgetTree.Armor_Image
+[2021.08.20-05.41.28:718][813]LogUObjectHash: Warning: Ambiguous path search, could be Image /Engine/Transient.World_23:Armor_Slot_C_8.WidgetTree.Armor_Image or Image /Engine/Transient.World_27:CharacterSheet_C_24.WidgetTree.BodySlot.WidgetTree.Armor_Image
+[2021.08.20-05.41.28:718][813]LogUObjectHash: Warning: Ambiguous path search, could be Image /Engine/Transient.World_23:Armor_Slot_C_8.WidgetTree.Armor_Image or Image /Engine/Transient.World_27:CharacterSheet_C_24.WidgetTree.LegSlot.WidgetTree.Armor_Image
+[2021.08.20-05.41.28:718][813]LogUObjectHash: Warning: Ambiguous path search, could be Image /Engine/Transient.World_23:Armor_Slot_C_8.WidgetTree.Armor_Image or Image /Engine/Transient.World_27:CharacterSheet_C_24.WidgetTree.GloveSlot.WidgetTree.Armor_Image
+[2021.08.20-05.41.28:718][813]LogUObjectHash: Warning: Ambiguous path search, could be Image /Engine/Transient.World_23:Armor_Slot_C_8.WidgetTree.Armor_Image or Image /Engine/Transient.World_27:CharacterSheet_C_24.WidgetTree.BootsSlot.WidgetTree.Armor_Image
+[2021.08.20-05.41.28:718][813]LogUObjectHash: Warning: Ambiguous path search, could be Image /Engine/Transient.World_23:Armor_Slot_C_8.WidgetTree.Armor_Image or Image /Engine/Transient.World_20:Wgt_Player_UI_C_14.WidgetTree.CharacterSheet.WidgetTree.HeadSlot.WidgetTree.Armor_Image
+[2021.08.20-05.41.28:718][813]LogUObjectHash: Warning: Ambiguous path search, could be Image /Engine/Transient.World_23:Armor_Slot_C_8.WidgetTree.Armor_Image or Image /Engine/Transient.World_20:Wgt_Player_UI_C_14.WidgetTree.CharacterSheet.WidgetTree.Weapon_Slot.WidgetTree.Armor_Image
+[2021.08.20-05.41.28:718][813]LogUObjectHash: Warning: Ambiguous path search, could be Image /Engine/Transient.World_23:Armor_Slot_C_8.WidgetTree.Armor_Image or Image /Engine/Transient.World_20:Wgt_Player_UI_C_14.WidgetTree.CharacterSheet.WidgetTree.BodySlot.WidgetTree.Armor_Image
+[2021.08.20-05.41.28:718][813]LogUObjectHash: Warning: Ambiguous path search, could be Image /Engine/Transient.World_23:Armor_Slot_C_8.WidgetTree.Armor_Image or Image /Engine/Transient.World_20:Wgt_Player_UI_C_14.WidgetTree.CharacterSheet.WidgetTree.LegSlot.WidgetTree.Armor_Image
+[2021.08.20-05.41.28:718][813]LogUObjectHash: Warning: Ambiguous path search, could be Image /Engine/Transient.World_23:Armor_Slot_C_8.WidgetTree.Armor_Image or Image /Engine/Transient.World_20:Wgt_Player_UI_C_14.WidgetTree.CharacterSheet.WidgetTree.GloveSlot.WidgetTree.Armor_Image
+[2021.08.20-05.41.28:718][813]LogUObjectHash: Warning: Ambiguous path search, could be Image /Engine/Transient.World_23:Armor_Slot_C_8.WidgetTree.Armor_Image or Image /Engine/Transient.World_20:Wgt_Player_UI_C_14.WidgetTree.CharacterSheet.WidgetTree.BootsSlot.WidgetTree.Armor_Image
+[2021.08.20-05.41.28:718][813]LogUObjectHash: Warning: Ambiguous path search, could be Image /Engine/Transient.World_23:Armor_Slot_C_8.WidgetTree.Armor_Image or Image /Engine/Transient.World_32:CharacterSheet_C_0.WidgetTree.HeadSlot.WidgetTree.Armor_Image
+[2021.08.20-05.41.28:718][813]LogUObjectHash: Warning: Ambiguous path search, could be Image /Engine/Transient.World_23:Armor_Slot_C_8.WidgetTree.Armor_Image or Image /Engine/Transient.World_32:CharacterSheet_C_0.WidgetTree.Weapon_Slot.WidgetTree.Armor_Image
+[2021.08.20-05.41.28:718][813]LogUObjectHash: Warning: Ambiguous path search, could be Image /Engine/Transient.World_23:Armor_Slot_C_8.WidgetTree.Armor_Image or Image /Engine/Transient.World_32:CharacterSheet_C_0.WidgetTree.BodySlot.WidgetTree.Armor_Image
+[2021.08.20-05.41.28:718][813]LogUObjectHash: Warning: Ambiguous path search, could be Image /Engine/Transient.World_23:Armor_Slot_C_8.WidgetTree.Armor_Image or Image /Engine/Transient.World_32:CharacterSheet_C_0.WidgetTree.LegSlot.WidgetTree.Armor_Image
+[2021.08.20-05.41.28:718][813]LogUObjectHash: Warning: Ambiguous path search, could be Image /Engine/Transient.World_23:Armor_Slot_C_8.WidgetTree.Armor_Image or Image /Engine/Transient.World_32:CharacterSheet_C_0.WidgetTree.GloveSlot.WidgetTree.Armor_Image
+[2021.08.20-05.41.28:718][813]LogUObjectHash: Warning: Ambiguous path search, could be Image /Engine/Transient.World_23:Armor_Slot_C_8.WidgetTree.Armor_Image or Image /Engine/Transient.World_32:CharacterSheet_C_0.WidgetTree.BootsSlot.WidgetTree.Armor_Image
+[2021.08.20-05.41.28:718][813]LogUObjectHash: Warning: Ambiguous path search, could be Image /Engine/Transient.World_23:Armor_Slot_C_8.WidgetTree.Armor_Image or Image /Engine/Transient.World_27:CharacterSheet_C_25.WidgetTree.HeadSlot.WidgetTree.Armor_Image
+[2021.08.20-05.41.28:718][813]LogUObjectHash: Warning: Ambiguous path search, could be Image /Engine/Transient.World_23:Armor_Slot_C_8.WidgetTree.Armor_Image or Image /Engine/Transient.World_27:CharacterSheet_C_25.WidgetTree.MHSlot.WidgetTree.Armor_Image
+[2021.08.20-05.41.28:718][813]LogUObjectHash: Warning: Ambiguous path search, could be Image /Engine/Transient.World_23:Armor_Slot_C_8.WidgetTree.Armor_Image or Image /Engine/Transient.World_27:CharacterSheet_C_25.WidgetTree.BodySlot.WidgetTree.Armor_Image
+[2021.08.20-05.41.28:718][813]LogUObjectHash: Warning: Ambiguous path search, could be Image /Engine/Transient.World_23:Armor_Slot_C_8.WidgetTree.Armor_Image or Image /Engine/Transient.World_27:CharacterSheet_C_25.WidgetTree.LegSlot.WidgetTree.Armor_Image
+[2021.08.20-05.41.28:718][813]LogUObjectHash: Warning: Ambiguous path search, could be Image /Engine/Transient.World_23:Armor_Slot_C_8.WidgetTree.Armor_Image or Image /Engine/Transient.World_27:CharacterSheet_C_25.WidgetTree.GloveSlot.WidgetTree.Armor_Image
+[2021.08.20-05.41.28:718][813]LogUObjectHash: Warning: Ambiguous path search, could be Image /Engine/Transient.World_23:Armor_Slot_C_8.WidgetTree.Armor_Image or Image /Engine/Transient.World_27:CharacterSheet_C_25.WidgetTree.BootsSlot.WidgetTree.Armor_Image
+[2021.08.20-05.41.28:718][813]LogProperty: Warning: Illegal TEXT reference to a private object in external package (Image /Engine/Transient.World_23:Armor_Slot_C_8.WidgetTree.Armor_Image) from referencer (Weapon_Slot_C /Engine/UMG/Editor/Transient.MHSlot).  Import failed...
+[2021.08.20-05.41.28:718][813]LogProperty: Warning: ObjectProperty /Game/Blueprints/Equipment_System/Weapon_Slot.Weapon_Slot_C:Armor_Image: unresolved reference to 'Image'"WidgetTree.Armor_Image"''
+[2021.08.20-05.41.32:633][871]LogEditorTransaction: Undo Duplicate selection
+[2021.08.20-05.41.33:747][919]LogEditorTransaction: Redo Duplicate selection
+[2021.08.20-05.41.51:190][134]BlueprintLog: New page: Compile CharacterSheet
+[2021.08.20-05.41.51:308][134]LogUObjectHash: Compacting FUObjectHashTables data took   5.23ms
+[2021.08.20-05.41.51:719][139]LogSavePackage: Moving '../../../../../../Ue_Wisp/IsoJack_v2/IsoJackUE4/IsoJackUE4/Saved/CharacterSheet48ED57D64CF103672DAED18528EA87A1.tmp' to '../../../../../../Ue_Wisp/IsoJack_v2/IsoJackUE4/IsoJackUE4/Content/Blueprints/Equipment_System/CharacterSheet.uasset'
+[2021.08.20-05.41.51:735][139]AssetCheck: New page: Asset Save: CharacterSheet
+[2021.08.20-05.41.51:735][139]LogContentValidation: Display: Validating WidgetBlueprint /Game/Blueprints/Equipment_System/CharacterSheet.CharacterSheet
+[2021.08.20-05.42.15:494][556]LogEditorTransaction: Undo Move Widget
+[2021.08.20-05.42.27:339][802]LogSlate: Last resort fallback font was requested. Font: '/Game/UX/Fonts/Kiddiewink-Personal_Use.Kiddiewink-Personal_Use_0', Character: '_ (U+005f)'
+[2021.08.20-05.42.27:428][802]LogSlate: Took 0.086829 seconds to synchronously load lazily loaded font '../../../Engine/Content/SlateDebug/Fonts/LastResort.ttf' (5269K)
+[2021.08.20-05.43.10:833][631]BlueprintLog: New page: Compile CharacterSheet
+[2021.08.20-05.43.10:937][631]LogUObjectHash: Compacting FUObjectHashTables data took   4.65ms
+[2021.08.20-05.43.11:527][642]LogSavePackage: Moving '../../../../../../Ue_Wisp/IsoJack_v2/IsoJackUE4/IsoJackUE4/Saved/CharacterSheet9855B581408A174EEDF803B5B75F05F7.tmp' to '../../../../../../Ue_Wisp/IsoJack_v2/IsoJackUE4/IsoJackUE4/Content/Blueprints/Equipment_System/CharacterSheet.uasset'
+[2021.08.20-05.43.11:542][642]AssetCheck: New page: Asset Save: CharacterSheet
+[2021.08.20-05.43.11:542][642]LogContentValidation: Display: Validating WidgetBlueprint /Game/Blueprints/Equipment_System/CharacterSheet.CharacterSheet
+[2021.08.20-05.43.18:140][696]LogSavePackage: Moving '../../../../../../Ue_Wisp/IsoJack_v2/IsoJackUE4/IsoJackUE4/Saved/CharacterSheet74C0A06D480867CE524207BB64F9DBD4.tmp' to '../../../../../../Ue_Wisp/IsoJack_v2/IsoJackUE4/IsoJackUE4/Content/Blueprints/Equipment_System/CharacterSheet.uasset'
+[2021.08.20-05.43.18:157][696]AssetCheck: New page: Asset Save: CharacterSheet
+[2021.08.20-05.43.18:157][696]LogContentValidation: Display: Validating WidgetBlueprint /Game/Blueprints/Equipment_System/CharacterSheet.CharacterSheet
+[2021.08.20-05.43.20:819][730]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2021.08.20-05.43.20:829][730]BlueprintLog: New page: Pre-Play auto-recompile
+[2021.08.20-05.43.20:829][730]LogPlayLevel: [PlayLevel] Compiling PROTO_BP_AnimBlueprint_0 before play...
+[2021.08.20-05.43.20:997][730]LogUObjectHash: Compacting FUObjectHashTables data took   4.67ms
+[2021.08.20-05.43.20:998][730]LogPlayLevel: PlayLevel: Blueprint regeneration took 170 ms (1 blueprints)
+[2021.08.20-05.43.20:998][730]PIE: New page: PIE session: Lv_IsoJack (Aug 19, 2021, 7:43:20 PM)
+[2021.08.20-05.43.20:999][730]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Lv_IsoJack
+[2021.08.20-05.43.21:267][730]LogPlayLevel: PIE: StaticDuplicateObject took: (0.266768s)
+[2021.08.20-05.43.21:267][730]LogAIModule: Creating AISystem for world Lv_IsoJack
+[2021.08.20-05.43.21:268][730]LogPlayLevel: PIE: World Init took: (0.001127s)
+[2021.08.20-05.43.21:268][730]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Lv_IsoJack.Lv_IsoJack to /Game/Maps/UEDPIE_0_Lv_IsoJack.Lv_IsoJack (0.268030s)
+[2021.08.20-05.43.21:316][730]LogUObjectHash: Compacting FUObjectHashTables data took   3.46ms
+[2021.08.20-05.43.21:317][730]LogAudio: Display: Creating Audio Device:                 Id: 14, Scope: Unique, Realtime: True
+[2021.08.20-05.43.21:317][730]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.08.20-05.43.21:317][730]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.08.20-05.43.21:317][730]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.08.20-05.43.21:317][730]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.08.20-05.43.21:317][730]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.08.20-05.43.21:317][730]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.08.20-05.43.21:317][730]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.08.20-05.43.21:317][730]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.08.20-05.43.21:318][730]LogAudio: Display: Using built-in audio occlusion.
+[2021.08.20-05.43.21:318][730]LogAudioMixer: Display: Initializing audio mixer.
+[2021.08.20-05.43.21:324][730]LogAudioMixer: Display: 0: FrontLeft
+[2021.08.20-05.43.21:324][730]LogAudioMixer: Display: 1: FrontRight
+[2021.08.20-05.43.21:359][730]LogAudioMixer: Display: Using Audio Device Speakers (Razer Audio Controller - Game)
+[2021.08.20-05.43.21:359][730]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.08.20-05.43.21:359][730]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.08.20-05.43.21:359][730]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.08.20-05.43.21:360][730]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.08.20-05.43.21:360][730]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.08.20-05.43.21:360][730]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.08.20-05.43.21:376][730]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.08.20-05.43.21:376][730]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.08.20-05.43.21:376][730]LogInit: FAudioDevice initialized.
+[2021.08.20-05.43.21:376][730]LogAudio: Display: Audio Device (ID: 14) registered with world 'Lv_IsoJack'.
+[2021.08.20-05.43.21:398][730]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.08.20-05.43.21:399][730]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.08.20-05.43.21:450][730]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Lv_IsoJack.Lv_IsoJack up for play (max tick rate 60) at 2021.08.20-00.43.21
+[2021.08.20-05.43.21:453][730]LogWorld: Bringing up level for play took: 0.053388
+[2021.08.20-05.43.21:454][730]LogOnline: OSS: Creating online subsystem instance for: :Context_40
+[2021.08.20-05.43.21:463][730]LogBlueprintUserMessages: [BP_Quest_2_Protect_of_the_people_2] Quest Does not have Objectives Setup, Check BP_Quest_root_ populate objective for more information.
+[2021.08.20-05.43.21:463][730]LogBlueprintUserMessages: [BP_Quest_3_Placeholder_2] Quest Does not have Objectives Setup, Check BP_Quest_root_ populate objective for more information.
+[2021.08.20-05.43.21:463][730]LogBlueprintUserMessages: [BP_Quest_4_Placeholder2_2] Quest Does not have Objectives Setup, Check BP_Quest_root_ populate objective for more information.
+[2021.08.20-05.43.21:463][730]LogBlueprintUserMessages: [BP_Quest_8_Battle_of_Iso_2] Quest Does not have Objectives Setup, Check BP_Quest_root_ populate objective for more information.
+[2021.08.20-05.43.21:463][730]LogBlueprintUserMessages: [BP_SideQuest_1_WildernessSmith_2] Quest Does not have Objectives Setup, Check BP_Quest_root_ populate objective for more information.
+[2021.08.20-05.43.21:463][730]LogBlueprintUserMessages: [BP_SideQuest_2_TavernBounty_2] Quest Does not have Objectives Setup, Check BP_Quest_root_ populate objective for more information.
+[2021.08.20-05.43.21:463][730]LogBlueprintUserMessages: [BP_SideQuest_3_Sawmill_2] Quest Does not have Objectives Setup, Check BP_Quest_root_ populate objective for more information.
+[2021.08.20-05.43.21:463][730]LogBlueprintUserMessages: [BP_SideQuest_4_Hat_for_a_hero_2] Quest Does not have Objectives Setup, Check BP_Quest_root_ populate objective for more information.
+[2021.08.20-05.43.21:463][730]LogBlueprintUserMessages: [BP_SideQuest_5_Egg_Hunter_2] Quest Does not have Objectives Setup, Check BP_Quest_root_ populate objective for more information.
+[2021.08.20-05.43.21:463][730]LogBlueprintUserMessages: [BP_Quest_5_Placeholder3_2] Quest Does not have Objectives Setup, Check BP_Quest_root_ populate objective for more information.
+[2021.08.20-05.43.21:469][730]PIE: Server logged in
+[2021.08.20-05.43.21:470][730]PIE: Play in editor total start time 0.644 seconds.
+[2021.08.20-05.43.36:813][ 17]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(799)]!
+[2021.08.20-05.43.36:813][ 17]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2021.08.20-05.43.36:813][ 17]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2021.08.20-05.43.37:975][ 48]LogNet: Browse: /Game/Maps/Lv_StartMenu
+[2021.08.20-05.43.37:975][ 48]LogLoad: LoadMap: /Game/Maps/Lv_StartMenu
+[2021.08.20-05.43.37:975][ 48]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Lv_IsoJack
+[2021.08.20-05.43.37:976][ 48]LogWorld: UWorld::CleanupWorld for Lv_IsoJack, bSessionEnded=true, bCleanupResources=true
+[2021.08.20-05.43.37:985][ 48]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.20-05.43.38:046][ 48]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.08.20-05.43.38:086][ 48]LogUObjectHash: Compacting FUObjectHashTables data took   4.11ms
+[2021.08.20-05.43.38:106][ 48]LogAudio: Display: Audio Device (ID: 14) registered with world 'Lv_StartMenu'.
+[2021.08.20-05.43.38:107][ 48]LogAIModule: Creating AISystem for world Lv_StartMenu
+[2021.08.20-05.43.38:107][ 48]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.08.20-05.43.38:108][ 48]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Lv_StartMenu.Lv_StartMenu up for play (max tick rate 60) at 2021.08.20-00.43.38
+[2021.08.20-05.43.38:109][ 48]LogWorld: Bringing up level for play took: 0.000537
+[2021.08.20-05.43.38:109][ 48]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2021.08.20-05.43.38:110][ 48]LogLoad: Took 0.135625 seconds to LoadMap(/Game/Maps/Lv_StartMenu)
+[2021.08.20-05.43.38:848][ 91]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.08.20-05.43.38:849][ 91]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Lv_StartMenu
+[2021.08.20-05.43.38:849][ 91]LogSlate: Window 'IsoJack_Redux Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2021.08.20-05.43.38:857][ 91]LogWorld: UWorld::CleanupWorld for Lv_StartMenu, bSessionEnded=true, bCleanupResources=true
+[2021.08.20-05.43.38:857][ 91]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.20-05.43.38:870][ 91]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.08.20-05.43.38:926][ 91]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.20-05.43.38:986][ 91]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.08.20-05.43.38:988][ 91]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.08.20-05.43.39:025][ 91]LogUObjectHash: Compacting FUObjectHashTables data took   5.54ms
+[2021.08.20-05.43.39:085][ 92]LogPlayLevel: Display: Destroying online subsystem :Context_40
