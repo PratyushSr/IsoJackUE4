@@ -1,0 +1,2 @@
+D:\Ue_Wisp\IsoJack_v2\IsoJackUE4\IsoJackUE4\Intermediate\Build\Win64\UE4Editor\Development\IsoJackUE4\Definitions.IsoJackUE4.h
+D:\Ue_Wisp\IsoJack_v2\IsoJackUE4\IsoJackUE4\Source\IsoJackUE4\IsoJackCpp.h

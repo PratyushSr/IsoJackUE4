@@ -1,0 +1,14 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-IsoJackUE4.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\Ue_Wisp\IsoJack_v2\IsoJackUE4\IsoJackUE4\Intermediate\Build\Win64\IsoJackUE4Editor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"D:\Ue_Wisp\IsoJack_v2\IsoJackUE4\IsoJackUE4\Intermediate\Build\Win64\UE4Editor\Development\IsoJackUE4\IsoJackCpp.cpp.obj"
+"D:\Ue_Wisp\IsoJack_v2\IsoJackUE4\IsoJackUE4\Intermediate\Build\Win64\UE4Editor\Development\IsoJackUE4\IsoJackUE4.cpp.obj"
+"D:\Ue_Wisp\IsoJack_v2\IsoJackUE4\IsoJackUE4\Intermediate\Build\Win64\UE4Editor\Development\IsoJackUE4\Default.rc2.res"
+/OUT:"D:\Ue_Wisp\IsoJack_v2\IsoJackUE4\IsoJackUE4\Intermediate\Build\Win64\UE4Editor\Development\IsoJackUE4\UE4Editor-IsoJackUE4.lib"
+/INCLUDE:IMPLEMENT_MODULE_IsoJackUE4

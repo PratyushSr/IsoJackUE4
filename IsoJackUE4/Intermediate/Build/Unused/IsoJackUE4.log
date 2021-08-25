@@ -1,0 +1,18 @@
+﻿  Using 'git status' to determine working set for adaptive non-unity build (D:\Ue_Wisp\IsoJack_v2\IsoJackUE4).
+  Creating makefile for IsoJackUE4 (no existing makefile)
+  Parsing headers for IsoJackUE4
+    Running UnrealHeaderTool "D:\Ue_Wisp\IsoJack_v2\IsoJackUE4\IsoJackUE4\IsoJackUE4.uproject" "D:\Ue_Wisp\IsoJack_v2\IsoJackUE4\IsoJackUE4\Intermediate\Build\Win64\IsoJackUE4\Development\IsoJackUE4.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -abslog="C:\Users\22iro\AppData\Local\UnrealBuildTool\Log_UHT.txt" -installed
+  Reflection code generated for IsoJackUE4 in 27.0616899 seconds
+  Building IsoJackUE4...
+  Using Visual Studio 2019 14.29.30040 toolchain (D:\windows Kits\VS\VC\Tools\MSVC\14.29.30037) and Windows 10.0.18362.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+  Building 7 actions with 12 processes...
+    [1/7] Default.rc2
+    [2/7] turbojpeg.dll
+    [3/7] SharedPCH.Engine.ShadowErrors.cpp
+    [4/7] IsoJackUE4.cpp
+    [5/7] IsoJackCpp.cpp
+    [6/7] IsoJackUE4.exe
+       Creating library D:\Ue_Wisp\IsoJack_v2\IsoJackUE4\IsoJackUE4\Binaries\Win64\IsoJackUE4.lib and object D:\Ue_Wisp\IsoJack_v2\IsoJackUE4\IsoJackUE4\Binaries\Win64\IsoJackUE4.exp
+    [7/7] IsoJackUE4.target
+  Total time in Parallel executor: 161.50 seconds
+  Total execution time: 204.49 seconds

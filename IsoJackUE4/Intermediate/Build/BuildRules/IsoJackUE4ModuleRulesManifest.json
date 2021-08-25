@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"D:\\Ue_Wisp\\IsoJack_v2\\IsoJackUE4\\IsoJackUE4\\Source\\IsoJackUE4\\IsoJackUE4.Build.cs",
+		"D:\\Ue_Wisp\\IsoJack_v2\\IsoJackUE4\\IsoJackUE4\\Source\\IsoJackUE4.Target.cs",
+		"D:\\Ue_Wisp\\IsoJack_v2\\IsoJackUE4\\IsoJackUE4\\Source\\IsoJackUE4Editor.Target.cs"
+	],
+	"EngineVersion": "4.26.2"
+}

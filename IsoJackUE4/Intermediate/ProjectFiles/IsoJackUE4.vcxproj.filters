@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\IsoJackUE4.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{B39F2129-4DAB-4DF7-BF5F-B977DBDFCCEC}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\IsoJackUE4.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\IsoJackUE4Editor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\IsoJackUE4.png" />
+    <None Include="..\..\LuosEightElements.png" />
+    <Filter Include="Config">
+      <UniqueIdentifier>{A3853DDC-2012-45EC-BF24-D494F3A4C968}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\IsoJackUE4">
+      <UniqueIdentifier>{91CAB983-6C26-42DD-B878-81923E02076B}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\IsoJackUE4\IsoJackCpp.cpp">
+      <Filter>Source\IsoJackUE4</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\IsoJackUE4\IsoJackCpp.h">
+      <Filter>Source\IsoJackUE4</Filter>
+    </ClInclude>
+    <None Include="..\..\Source\IsoJackUE4\IsoJackUE4.Build.cs">
+      <Filter>Source\IsoJackUE4</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\IsoJackUE4\IsoJackUE4.cpp">
+      <Filter>Source\IsoJackUE4</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\IsoJackUE4\IsoJackUE4.h">
+      <Filter>Source\IsoJackUE4</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

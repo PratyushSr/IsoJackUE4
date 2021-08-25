@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "IsoJackUE4",
+			"Path": "D:\\Ue_Wisp\\IsoJack_v2\\IsoJackUE4\\IsoJackUE4\\Source\\IsoJackUE4.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "IsoJackUE4Editor",
+			"Path": "D:\\Ue_Wisp\\IsoJack_v2\\IsoJackUE4\\IsoJackUE4\\Source\\IsoJackUE4Editor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
